@@ -1,0 +1,43 @@
+rank_raw,id,name,country,count,mean_cit,fwci,keep
+1,I19820366,Chinese Academy of Sciences,CN,1133,60.24,4.21,1
+2,I4210165038,University of Chinese Academy of Sciences,CN,489,52.80,3.79,1
+3,I4210127390,State Council of the PRC,CN,398,34.89,3.33,0
+4,I4210160793,Institute of Geographic Sciences and Natural Resources Research (CAS),CN,338,75.42,4.15,1
+5,I25254941,Beijing Normal University,CN,320,80.89,5.43,1
+6,I4210144289,Research Center for Eco-Environmental Sciences (CAS),CN,194,78.11,4.73,1
+7,I211433327,Ministry of Natural Resources (PRC),CN,172,27.30,2.90,0
+8,I4387153223,State Key Laboratory of Urban and Regional Ecology,CN,167,84.04,4.88,1
+9,I1294671590,Centre National de la Recherche Scientifique,FR,149,142.34,8.69,1
+10,I4210088668,INRAE,FR,132,104.04,7.04,1
+11,I1286583668,CGIAR,INT,130,76.52,5.61,1
+12,I3124059619,China University of Geosciences,CN,129,41.95,3.73,1
+13,I20231570,Peking University,CN,125,118.56,6.63,1
+14,I1327237609,Ministry of Education (PRC),CN,121,35.83,3.54,0
+15,I151201029,CONICET,AR,121,71.75,4.08,1
+16,I4210123736,Ministerio de Ciencia Tecnologia e Innovacion (AR),AR,121,71.75,4.08,0
+17,I4387155568,Argentine-German Geodetic Observatory,AR,121,71.75,4.08,0
+18,I913481162,Wageningen University & Research,NL,120,150.33,7.48,1
+19,I17974374,Universidade de Sao Paulo,BR,117,61.43,5.21,1
+20,I2802818602,Gouvernement de la Republique francaise,FR,117,109.15,7.02,0
+21,I31683504,Beijing Forestry University,CN,115,33.38,3.47,1
+22,I4210090127,Ministere de l'Europe et des Affaires etrangeres,FR,114,111.11,7.13,0
+23,I4391768099,State Key Laboratory of Earth Surface Processes and Resource Ecology,CN,114,120.61,7.42,1
+24,I4210131494,Ministere de l'Enseignement Superieur de la Recherche et de l'Espace,FR,113,111.20,7.12,0
+25,I4210166444,Institut de Recherche pour le Developpement,FR,113,111.20,7.12,1
+26,I4210134523,State Forestry and Grassland Administration,CN,110,41.87,3.74,0
+27,I4210155611,Ministry of Water Resources (PRC),CN,99,41.18,3.13,0
+28,I89652312,Northwest A&F University,CN,99,36.07,3.18,1
+29,I1305996414,Helmholtz Association,DE,94,175.49,9.75,1
+30,I315704651,Leibniz Association,DE,92,122.84,8.29,1
+31,I37461747,Wuhan University,CN,92,58.76,5.34,1
+32,I1286959531,United Nations,INT,90,105.14,5.72,0
+33,I4210103115,Xinjiang Institute of Ecology and Geography (CAS),CN,90,32.18,3.48,1
+34,I4537092,Addis Ababa University,ET,88,47.03,3.95,1
+35,I4210151987,Ministry of Agriculture and Rural Affairs (PRC),CN,85,39.15,3.89,0
+36,I8961855,Universidad Nacional Autonoma de Mexico,MX,82,71.95,5.27,1
+37,I19894307,Universite de Montpellier,FR,81,97.44,5.04,1
+38,I131077856,CIRAD,FR,80,96.10,6.14,1
+39,I881766915,Nanjing University,CN,80,42.48,4.11,1
+40,I134820265,CSIC,ES,79,85.68,6.39,1
+41,I167027274,Nanjing Forestry University,CN,79,32.24,3.87,1
+42,I76130692,Zhejiang University,CN,79,76.06,5.11,1

@@ -1,0 +1,553 @@
+level0,level1,count,id,mean FWCI,mean citation count
+1990,Global and Planetary Change,2,2306,3.5852,39.5
+1991,Demography,1,3317,0,2
+1993,General Agricultural and Biological Sciences,1,1100,45.1414,221
+1993,"Ecology, Evolution, Behavior and Systematics",1,1105,0,0
+1993,"Management, Monitoring, Policy and Law",1,2308,0,3981
+1994,Global and Planetary Change,1,2306,0,0
+1996,Computational Theory and Mathematics,1,1703,16.4882,367
+1997,Global and Planetary Change,1,2306,3.1396,33
+1997,Development,1,3303,57.3028,230
+1998,Global and Planetary Change,2,2306,2.6824,110
+1999,Soil Science,1,1111,0,0
+1999,Oceanography,1,1910,6.6636,462
+1999,Global and Planetary Change,1,2306,7.7024,80
+1999,Sociology and Political Science,1,3312,14.1802,219
+2000,Oceanography,2,1910,1.8246,45.5
+2000,Ecology,2,2303,0,2.5
+2000,"Management, Monitoring, Policy and Law",2,2308,35.3402,99
+2000,Molecular Biology,1,1312,0.2252,2
+2000,Global and Planetary Change,1,2306,8.8874,53
+2001,Global and Planetary Change,6,2306,2.8528,105.6667
+2001,Nature and Landscape Conservation,2,2309,7.9462,88.5
+2001,Economics and Econometrics,1,2002,5.3356,72
+2001,Ecology,1,2303,7.7321,157
+2002,Global and Planetary Change,2,2306,2.5551,46.5
+2002,Insect Science,1,1109,2.5902,32
+2002,Soil Science,1,1111,6.3201,267
+2002,Ecology,1,2303,2.0846,77
+2002,Nature and Landscape Conservation,1,2309,3.9982,242
+2003,Global and Planetary Change,4,2306,4.755,137.75
+2003,Ecology,2,2303,0.6326,8.5
+2003,"Management, Monitoring, Policy and Law",1,2308,13.5822,16
+2003,Education,1,3304,5.7854,3
+2003,Safety Research,1,3311,6.0539,42
+2003,Sociology and Political Science,1,3312,0,1
+2004,Global and Planetary Change,11,2306,3.0965,74.5455
+2004,Ecology,2,2303,0,0
+2004,Nature and Landscape Conservation,2,2309,5.2895,145
+2004,"Renewable Energy, Sustainability and the Environment",1,2105,0.5215,30
+2004,Ocean Engineering,1,2212,11.7937,242
+2004,"Management, Monitoring, Policy and Law",1,2308,0,0
+2005,Global and Planetary Change,13,2306,7.0627,236.2308
+2005,"Management, Monitoring, Policy and Law",3,2308,0.9858,4.3333
+2005,Ocean Engineering,1,2212,0.9604,9
+2005,Environmental Engineering,1,2305,6.4116,170
+2006,Global and Planetary Change,13,2306,7.3264,245.6154
+2006,Nature and Landscape Conservation,3,2309,3.8219,97
+2006,Education,2,3304,2.1799,9.5
+2006,"Management, Monitoring, Policy and Law",1,2308,4.3627,4
+2006,Water Science and Technology,1,2312,1.6769,44
+2007,Global and Planetary Change,21,2306,2.2309,57.2857
+2007,Economics and Econometrics,2,2002,12.157,119.5
+2007,"Management, Monitoring, Policy and Law",2,2308,38.9917,569.5
+2007,Agronomy and Crop Science,1,1102,1.3149,8
+2007,"Ecology, Evolution, Behavior and Systematics",1,1105,6.7357,1498
+2007,Plant Science,1,1110,2.3126,23
+2007,Ecology,1,2303,2.592,25
+2007,Water Science and Technology,1,2312,0.3995,20
+2008,Global and Planetary Change,37,2306,3.9042,90.6486
+2008,Ecology,4,2303,14.5588,326
+2008,"Management, Monitoring, Policy and Law",3,2308,2.1051,7
+2008,Ocean Engineering,2,2212,6.6264,57.5
+2008,Agronomy and Crop Science,1,1102,9.6104,93
+2008,Forestry,1,1107,2.8076,48
+2008,Genetics,1,1311,0,0
+2008,Geology,1,1907,0.6026,3
+2008,Nature and Landscape Conservation,1,2309,17.1948,352
+2008,Water Science and Technology,1,2312,0,5
+2008,Sociology and Political Science,1,3312,5.79,9
+2009,Global and Planetary Change,38,2306,3.2633,56.9474
+2009,Ecology,5,2303,1.1608,20.6
+2009,Water Science and Technology,4,2312,4.9502,95
+2009,Atmospheric Science,3,1902,5.0087,155.6667
+2009,"Management, Monitoring, Policy and Law",3,2308,11.0624,34.6667
+2009,"Ecology, Evolution, Behavior and Systematics",2,1105,3.8045,130.5
+2009,Political Science and International Relations,2,3320,17.0287,47
+2009,Forestry,1,1107,9.1041,59
+2009,Soil Science,1,1111,1.1005,15
+2009,Earth-Surface Processes,1,1904,0,4
+2009,Mechanics of Materials,1,2211,8.9776,72
+2009,Ocean Engineering,1,2212,0,4
+2009,Nature and Landscape Conservation,1,2309,5.818,93
+2009,Pollution,1,2310,5.4438,165
+2010,Global and Planetary Change,42,2306,6.7699,168.2619
+2010,Ecology,6,2303,1.712,40.1667
+2010,Ocean Engineering,3,2212,6.8771,71.6667
+2010,"Management, Monitoring, Policy and Law",3,2308,14.1578,88
+2010,Nature and Landscape Conservation,2,2309,11.539,271
+2010,Agronomy and Crop Science,1,1102,0.6509,4
+2010,Plant Science,1,1110,9.2093,147
+2010,Soil Science,1,1111,15.6615,113
+2010,Genetics,1,1311,8.4743,245
+2010,Information Systems and Management,1,1802,2.1512,61
+2010,Geology,1,1907,10.2197,69
+2010,Economics and Econometrics,1,2002,0.7472,8
+2010,"Renewable Energy, Sustainability and the Environment",1,2105,0.8895,31
+2010,Pollution,1,2310,10.9844,170
+2010,Education,1,3304,1.4895,9
+2011,Global and Planetary Change,50,2306,3.0328,57.14
+2011,Ecology,8,2303,5.0753,164.875
+2011,Soil Science,3,1111,8.2801,318.3333
+2011,Environmental Engineering,3,2305,4.1351,96.6667
+2011,Agronomy and Crop Science,2,1102,7.8935,22.5
+2011,"Ecology, Evolution, Behavior and Systematics",2,1105,7.8336,82.5
+2011,Plant Science,2,1110,3.4244,67.5
+2011,Economics and Econometrics,2,2002,6.0197,24
+2011,"Management, Monitoring, Policy and Law",2,2308,34.1271,195
+2011,Nature and Landscape Conservation,2,2309,13.9938,294
+2011,Sociology and Political Science,2,3312,5.359,27.5
+2011,General Agricultural and Biological Sciences,1,1100,0,1
+2011,Horticulture,1,1108,23.5321,135
+2011,Insect Science,1,1109,14.8094,241
+2011,Molecular Biology,1,1312,0.2352,3
+2011,Oceanography,1,1910,1.5822,82
+2011,Ocean Engineering,1,2212,4.6131,35
+2011,Ecological Modeling,1,2302,2.2903,36
+2011,Water Science and Technology,1,2312,2.1623,29
+2012,Global and Planetary Change,70,2306,3.1464,63.2571
+2012,Ecology,8,2303,1.9109,75.875
+2012,Nature and Landscape Conservation,5,2309,2.8356,447.4
+2012,"Management, Monitoring, Policy and Law",4,2308,6.8775,28.5
+2012,Water Science and Technology,4,2312,2.0371,29
+2012,"Ecology, Evolution, Behavior and Systematics",3,1105,5.1986,79
+2012,"Health, Toxicology and Mutagenesis",3,2307,4.613,149.6667
+2012,Soil Science,2,1111,6.0102,50
+2012,Economics and Econometrics,2,2002,2.2761,42
+2012,Ocean Engineering,2,2212,1.3376,58
+2012,Forestry,1,1107,1.8261,8
+2012,Information Systems and Management,1,1802,0,0
+2012,Oceanography,1,1910,0,1
+2012,Civil and Structural Engineering,1,2205,0,3
+2012,Environmental Chemistry,1,2304,0.7437,13
+2012,Environmental Engineering,1,2305,0.2623,17
+2012,Pollution,1,2310,13.4113,266
+2013,Global and Planetary Change,90,2306,7.509,213.5889
+2013,Ecology,11,2303,8.3083,156.0909
+2013,Environmental Engineering,7,2305,7.8612,114.4286
+2013,"Ecology, Evolution, Behavior and Systematics",6,1105,5.6012,83.6667
+2013,Water Science and Technology,5,2312,3.4176,76
+2013,Ecological Modeling,3,2302,8.7206,192.3333
+2013,"Management, Monitoring, Policy and Law",3,2308,6.8105,48.6667
+2013,General Agricultural and Biological Sciences,2,1100,8.2745,18
+2013,Forestry,2,1107,47.0838,445
+2013,Ocean Engineering,2,2212,3.6456,27.5
+2013,Sociology and Political Science,2,3312,20.0219,79
+2013,Insect Science,1,1109,1.0064,5
+2013,Plant Science,1,1110,1.4979,21
+2013,Soil Science,1,1111,3.3015,41
+2013,Earth-Surface Processes,1,1904,4.4727,64
+2013,Economics and Econometrics,1,2002,4.6536,13
+2013,Biomedical Engineering,1,2204,1.419,15
+2013,"Safety, Risk, Reliability and Quality",1,2213,0,0
+2013,Building and Construction,1,2215,5.1973,62
+2013,Environmental Chemistry,1,2304,0,0
+2013,"Health, Toxicology and Mutagenesis",1,2307,1.1536,29
+2013,Nature and Landscape Conservation,1,2309,16.6726,179
+2013,Demography,1,3317,0,0
+2014,Global and Planetary Change,85,2306,5.094,99.2235
+2014,Ecology,22,2303,5.2646,113.9545
+2014,Nature and Landscape Conservation,7,2309,6.04,139.1429
+2014,"Ecology, Evolution, Behavior and Systematics",6,1105,3.353,80.3333
+2014,Ocean Engineering,5,2212,4.2681,35.2
+2014,"Management, Monitoring, Policy and Law",5,2308,16.2547,100.8
+2014,Soil Science,4,1111,3.3583,30.25
+2014,Economics and Econometrics,3,2002,7.8766,41.6667
+2014,Environmental Engineering,3,2305,3.2891,66.6667
+2014,Agronomy and Crop Science,2,1102,11.1875,52.5
+2014,Genetics,2,1311,1.9891,25
+2014,Atmospheric Science,2,1902,1.8756,59.5
+2014,Oceanography,2,1910,6.9423,167.5
+2014,Media Technology,2,2214,6.8833,38
+2014,Ecological Modeling,2,2302,1.9547,55.5
+2014,Forestry,1,1107,6.7083,47
+2014,Horticulture,1,1108,7.3419,31
+2014,Plant Science,1,1110,0,0
+2014,Earth-Surface Processes,1,1904,5.2131,57
+2014,Pollution,1,2310,0.9319,55
+2014,Waste Management and Disposal,1,2311,3.5815,33
+2014,Water Science and Technology,1,2312,0.2489,15
+2014,Education,1,3304,0,2
+2014,Sociology and Political Science,1,3312,0,1
+2014,Anthropology,1,3314,22.72,55
+2015,Global and Planetary Change,106,2306,4.6732,87.1981
+2015,Ecology,25,2303,9.1987,148.68
+2015,"Ecology, Evolution, Behavior and Systematics",11,1105,7.8729,109.7273
+2015,Soil Science,7,1111,8.9605,112.5714
+2015,Water Science and Technology,6,2312,2.4527,49.8333
+2015,Environmental Engineering,5,2305,11.0372,253.4
+2015,Oceanography,3,1910,3.4803,57.3333
+2015,Economics and Econometrics,3,2002,1.0661,8.6667
+2015,Nature and Landscape Conservation,3,2309,4.6635,46.6667
+2015,Agronomy and Crop Science,2,1102,12.3569,97.5
+2015,Forestry,2,1107,18.8102,91.5
+2015,Ecological Modeling,2,2302,1.5432,43.5
+2015,Environmental Chemistry,2,2304,3.2122,43.5
+2015,Waste Management and Disposal,2,2311,0.4656,2
+2015,Plant Science,1,1110,6.664,203
+2015,Genetics,1,1311,1.5979,9
+2015,Molecular Biology,1,1312,0.2877,15
+2015,Information Systems and Management,1,1802,0.6433,2
+2015,Paleontology,1,1911,1.4978,19
+2015,Ocean Engineering,1,2212,4.8726,77
+2015,Media Technology,1,2214,11.2371,103
+2015,"Health, Toxicology and Mutagenesis",1,2307,0.9596,22
+2015,"Management, Monitoring, Policy and Law",1,2308,0,0
+2015,Pollution,1,2310,1.238,20
+2015,Education,1,3304,0,1
+2015,Law,1,3308,23.121,14
+2016,Global and Planetary Change,128,2306,4.9867,91.375
+2016,Ecology,34,2303,14.9705,235.2353
+2016,Nature and Landscape Conservation,12,2309,15.544,220.1667
+2016,Soil Science,11,1111,5.8294,58.5455
+2016,"Ecology, Evolution, Behavior and Systematics",7,1105,9.1464,105
+2016,Environmental Engineering,7,2305,9.9342,228.7143
+2016,Water Science and Technology,7,2312,2.9088,41.7143
+2016,Atmospheric Science,4,1902,3.2255,47.5
+2016,Sociology and Political Science,4,3312,6.4228,40.25
+2016,Plant Science,3,1110,8.5651,62
+2016,Oceanography,3,1910,15.2871,295.3333
+2016,Ocean Engineering,3,2212,8.6254,96
+2016,"Management, Monitoring, Policy and Law",3,2308,4.9039,21.3333
+2016,General Agricultural and Biological Sciences,2,1100,4.8655,48
+2016,Civil and Structural Engineering,2,2205,4.5299,35
+2016,Ecological Modeling,2,2302,1.735,21
+2016,Forestry,1,1107,14.8621,57
+2016,Insect Science,1,1109,11.5757,91
+2016,Earth-Surface Processes,1,1904,0.4176,21
+2016,Paleontology,1,1911,0.2776,5
+2016,"Renewable Energy, Sustainability and the Environment",1,2105,0.3581,8
+2016,Mechanics of Materials,1,2211,3.7419,31
+2016,Media Technology,1,2214,6.1068,35
+2016,Environmental Chemistry,1,2304,3.4714,41
+2016,"Health, Toxicology and Mutagenesis",1,2307,5.8706,224
+2016,Geometry and Topology,1,2608,2.366,13
+2016,Law,1,3308,0.6073,10
+2017,Global and Planetary Change,154,2306,3.8396,72.2468
+2017,Ecology,30,2303,4.2646,81.3333
+2017,Soil Science,14,1111,3.3698,115.2857
+2017,Water Science and Technology,12,2312,1.7819,40.25
+2017,"Management, Monitoring, Policy and Law",11,2308,5.3341,45.5455
+2017,"Ecology, Evolution, Behavior and Systematics",10,1105,3.5322,47.2
+2017,Environmental Engineering,8,2305,5.1341,131.75
+2017,Nature and Landscape Conservation,8,2309,6.9343,140.375
+2017,Forestry,4,1107,9.4164,60.5
+2017,Ocean Engineering,4,2212,0.576,14.5
+2017,Sociology and Political Science,4,3312,110.753,352
+2017,Plant Science,3,1110,7.3279,115.3333
+2017,Atmospheric Science,3,1902,4.3046,67.6667
+2017,Oceanography,3,1910,4.4618,73
+2017,Economics and Econometrics,3,2002,4.538,25.3333
+2017,"Health, Toxicology and Mutagenesis",2,2307,2.1199,55.5
+2017,General Agricultural and Biological Sciences,1,1100,7.8404,42
+2017,Agronomy and Crop Science,1,1102,11.0648,58
+2017,Genetics,1,1311,0.6547,16
+2017,Information Systems,1,1710,0,0
+2017,Earth-Surface Processes,1,1904,3.2946,26
+2017,Finance,1,2003,17.0628,374
+2017,Mechanics of Materials,1,2211,0.7907,6
+2017,Building and Construction,1,2215,6.79,81
+2017,Ecological Modeling,1,2302,1.8222,78
+2017,Environmental Chemistry,1,2304,6.1828,126
+2017,Education,1,3304,20.2972,60
+2017,Political Science and International Relations,1,3320,21.0058,46
+2018,Global and Planetary Change,227,2306,3.7318,78.3612
+2018,Ecology,39,2303,4.704,74.3077
+2018,Water Science and Technology,24,2312,1.7499,45.375
+2018,"Management, Monitoring, Policy and Law",14,2308,4.9001,59.5714
+2018,Soil Science,13,1111,2.6198,41.0769
+2018,Atmospheric Science,9,1902,4.1263,98.6667
+2018,Nature and Landscape Conservation,7,2309,4.6562,118.1429
+2018,Environmental Engineering,6,2305,1.8525,64.3333
+2018,"Ecology, Evolution, Behavior and Systematics",5,1105,3.541,49.8
+2018,Oceanography,5,1910,1.578,34.8
+2018,Media Technology,4,2214,6.4758,98.25
+2018,General Agricultural and Biological Sciences,3,1100,2.8931,11.3333
+2018,Plant Science,3,1110,2.24,27.6667
+2018,Genetics,3,1311,1.4336,33.6667
+2018,Management Science and Operations Research,3,1803,3.2646,67.6667
+2018,Economics and Econometrics,3,2002,2.4967,18.3333
+2018,Ocean Engineering,3,2212,6.0511,88
+2018,Forestry,2,1107,31.6665,264.5
+2018,Earth-Surface Processes,2,1904,1.9502,21
+2018,Ecological Modeling,2,2302,0.3353,4.5
+2018,Pollution,2,2310,1.4125,47
+2018,Animal Science and Zoology,1,1103,8.8546,129
+2018,Aquatic Science,1,1104,4.0693,27
+2018,Horticulture,1,1108,5.8508,45
+2018,Insect Science,1,1109,1.929,17
+2018,Clinical Biochemistry,1,1308,0,0
+2018,Information Systems and Management,1,1802,0.7041,3
+2018,"Statistics, Probability and Uncertainty",1,1804,4.0582,79
+2018,Aerospace Engineering,1,2202,0.2019,2
+2018,Mechanics of Materials,1,2211,1.9255,20
+2018,"Health, Toxicology and Mutagenesis",1,2307,0.1136,4
+2019,Global and Planetary Change,258,2306,3.5594,64.2558
+2019,Ecology,31,2303,4.2562,126.7419
+2019,"Management, Monitoring, Policy and Law",14,2308,10.2626,94.5
+2019,Water Science and Technology,13,2312,1.7818,53
+2019,Nature and Landscape Conservation,12,2309,3.5585,57.5
+2019,Soil Science,10,1111,5.5222,60
+2019,Environmental Engineering,8,2305,2.5114,55
+2019,"Ecology, Evolution, Behavior and Systematics",7,1105,3.8485,229.4286
+2019,Sociology and Political Science,7,3312,15.5439,87
+2019,Earth-Surface Processes,6,1904,5.0764,63.8333
+2019,Atmospheric Science,5,1902,2.3242,45.2
+2019,Economics and Econometrics,5,2002,4.5333,34.4
+2019,Ecological Modeling,5,2302,7.0813,46.2
+2019,Plant Science,3,1110,1.8429,22.6667
+2019,Ocean Engineering,3,2212,3.6588,47.6667
+2019,Environmental Chemistry,3,2304,1.6391,36.6667
+2019,Forestry,2,1107,10.5199,59
+2019,Oceanography,2,1910,0.4081,9
+2019,"Renewable Energy, Sustainability and the Environment",2,2105,0.2127,7
+2019,"Health, Toxicology and Mutagenesis",2,2307,1.3116,29.5
+2019,Pollution,2,2310,0.9196,26.5
+2019,General Agricultural and Biological Sciences,1,1100,0,0
+2019,Agronomy and Crop Science,1,1102,0.6508,4
+2019,Geology,1,1907,4.2643,27
+2019,Paleontology,1,1911,5.5308,62
+2019,Civil and Structural Engineering,1,2205,5.4164,101
+2019,Mechanical Engineering,1,2210,0.7062,8
+2019,Media Technology,1,2214,3.5117,34
+2019,Law,1,3308,21.7949,21
+2019,Anthropology,1,3314,63.825,182
+2019,Urban Studies,1,3322,21.4107,138
+2020,Global and Planetary Change,308,2306,2.7005,56.1558
+2020,Ecology,51,2303,4.4899,70.6471
+2020,Water Science and Technology,27,2312,2.5022,72.037
+2020,Soil Science,18,1111,5.0259,66.0556
+2020,Environmental Engineering,18,2305,3.0319,68.5
+2020,"Ecology, Evolution, Behavior and Systematics",13,1105,8.2568,86.2308
+2020,"Management, Monitoring, Policy and Law",13,2308,5.9596,42.6923
+2020,Ecological Modeling,11,2302,7.8771,32.6364
+2020,Nature and Landscape Conservation,11,2309,3.1193,91.9091
+2020,Ocean Engineering,9,2212,4.306,51.5556
+2020,Oceanography,8,1910,5.7669,108
+2020,Media Technology,7,2214,2.5815,36
+2020,Environmental Chemistry,7,2304,1.9892,34.2857
+2020,Plant Science,5,1110,3.5625,54.4
+2020,Atmospheric Science,4,1902,3.9822,93
+2020,Earth-Surface Processes,4,1904,8.9395,91.75
+2020,General Agricultural and Biological Sciences,3,1100,8.22,51.6667
+2020,Agronomy and Crop Science,2,1102,20.2356,99
+2020,Forestry,2,1107,9.6291,45
+2020,Genetics,2,1311,2.9449,85
+2020,Paleontology,2,1911,0.9988,11
+2020,"Health, Toxicology and Mutagenesis",2,2307,0.7294,13
+2020,Pollution,2,2310,0.9407,33
+2020,Sociology and Political Science,2,3312,14.6702,78
+2020,Food Science,1,1106,71.6024,953
+2020,Horticulture,1,1108,1.8824,38
+2020,Management Science and Operations Research,1,1803,0.3169,2
+2020,Geology,1,1907,6.5543,47
+2020,Economics and Econometrics,1,2002,3.5416,33
+2020,Building and Construction,1,2215,4.6889,63
+2020,Education,1,3304,1.5446,6
+2020,"Geography, Planning and Development",1,3305,7.4308,16
+2020,Law,1,3308,11.4071,16
+2021,Global and Planetary Change,420,2306,3.3114,51.869
+2021,Ecology,74,2303,2.2054,27.527
+2021,Soil Science,24,1111,2.7529,32.25
+2021,Environmental Engineering,22,2305,2.1721,45.5455
+2021,Nature and Landscape Conservation,22,2309,2.239,22.2273
+2021,Water Science and Technology,21,2312,2.1604,44.6667
+2021,"Management, Monitoring, Policy and Law",19,2308,6.1244,39
+2021,"Ecology, Evolution, Behavior and Systematics",16,1105,3.2458,24.9375
+2021,Oceanography,14,1910,3.035,40.8571
+2021,Ecological Modeling,13,2302,12.767,19.5385
+2021,Ocean Engineering,10,2212,2.7396,31.2
+2021,Earth-Surface Processes,8,1904,3.9123,33.25
+2021,Economics and Econometrics,7,2002,2.6088,25
+2021,Forestry,5,1107,5.9722,27.2
+2021,Atmospheric Science,5,1902,1.4973,35.8
+2021,"Health, Toxicology and Mutagenesis",5,2307,1.8209,31.4
+2021,General Agricultural and Biological Sciences,4,1100,5.7683,24.75
+2021,Agronomy and Crop Science,4,1102,28.1287,167.75
+2021,Media Technology,4,2214,1.0504,17.75
+2021,Environmental Chemistry,4,2304,1.3738,39
+2021,Insect Science,3,1109,1.7434,18.6667
+2021,Plant Science,3,1110,2.176,21.6667
+2021,Pollution,3,2310,1.7407,91
+2021,Sociology and Political Science,3,3312,1.9028,46.6667
+2021,Genetics,1,1311,0,0
+2021,Management Science and Operations Research,1,1803,4.224,35
+2021,"Statistics, Probability and Uncertainty",1,1804,5.8999,56
+2021,"Renewable Energy, Sustainability and the Environment",1,2105,4.2837,144
+2021,Civil and Structural Engineering,1,2205,1.5448,18
+2021,Education,1,3304,1.7586,12
+2021,Law,1,3308,65.1299,68
+2021,Anthropology,1,3314,0,0
+2022,Global and Planetary Change,633,2306,2.644,33.0395
+2022,Ecology,76,2303,2.5478,25.5658
+2022,Soil Science,24,1111,4.4836,60.5
+2022,"Management, Monitoring, Policy and Law",21,2308,3.3628,20.1429
+2022,Nature and Landscape Conservation,18,2309,2.4473,20.6667
+2022,Water Science and Technology,18,2312,1.4123,24.9444
+2022,Environmental Engineering,16,2305,2.0616,34.9375
+2022,Ecological Modeling,12,2302,12.5259,26.9167
+2022,Oceanography,11,1910,2.6649,38.7273
+2022,"Ecology, Evolution, Behavior and Systematics",9,1105,5.0468,32
+2022,Media Technology,9,2214,2.5552,32.1111
+2022,Ocean Engineering,8,2212,3.0063,31.25
+2022,Environmental Chemistry,8,2304,0.9633,14
+2022,Atmospheric Science,7,1902,2.4162,31.8571
+2022,Plant Science,6,1110,2.2732,62
+2022,"Health, Toxicology and Mutagenesis",6,2307,1.076,15.1667
+2022,Pollution,6,2310,0.9411,34.8333
+2022,Sociology and Political Science,6,3312,7.9489,27.6667
+2022,Earth-Surface Processes,5,1904,3.5435,25.8
+2022,Genetics,4,1311,1.0266,9.5
+2022,Economics and Econometrics,4,2002,2.0222,12.25
+2022,Forestry,3,1107,13.1017,58.6667
+2022,General Agricultural and Biological Sciences,2,1100,1.5171,5
+2022,"Statistics, Probability and Uncertainty",2,1804,11.3174,93.5
+2022,Geology,2,1907,2.9253,16.5
+2022,Aerospace Engineering,2,2202,1.3841,19
+2022,Agronomy and Crop Science,1,1102,2.6651,11
+2022,Insect Science,1,1109,0.6496,5
+2022,Computer Vision and Pattern Recognition,1,1707,3.0256,50
+2022,Management Science and Operations Research,1,1803,3.048,20
+2022,Geochemistry and Petrology,1,1906,1.1933,10
+2022,Paleontology,1,1911,0.1787,4
+2022,Biomedical Engineering,1,2204,2.8605,148
+2022,Civil and Structural Engineering,1,2205,1.7977,19
+2022,Waste Management and Disposal,1,2311,0.6543,47
+2022,Anthropology,1,3314,0,1
+2022,Cultural Studies,1,3316,42.7126,37
+2022,Demography,1,3317,3.3012,12
+2022,Political Science and International Relations,1,3320,1.6452,4
+2022,Urban Studies,1,3322,0.4882,1
+2023,Global and Planetary Change,575,2306,2.678,24.5096
+2023,Ecology,78,2303,2.8743,18.7821
+2023,Soil Science,31,1111,4.6721,32.7742
+2023,"Management, Monitoring, Policy and Law",29,2308,3.4429,14.4828
+2023,Nature and Landscape Conservation,25,2309,4.4941,31.76
+2023,Environmental Engineering,24,2305,2.5531,32.4583
+2023,Water Science and Technology,17,2312,1.0663,13.8824
+2023,Ecological Modeling,16,2302,7.158,23.4375
+2023,Media Technology,13,2214,1.6748,15.2308
+2023,Plant Science,10,1110,2.9357,28.7
+2023,Oceanography,10,1910,3.3864,48.7
+2023,"Health, Toxicology and Mutagenesis",9,2307,1.7022,16.6667
+2023,Forestry,8,1107,8.0252,22.5
+2023,Atmospheric Science,8,1902,1.5215,13.75
+2023,Earth-Surface Processes,8,1904,2.0274,14.125
+2023,"Ecology, Evolution, Behavior and Systematics",7,1105,2.9932,12.2857
+2023,General Agricultural and Biological Sciences,6,1100,2.8693,12.6667
+2023,Ocean Engineering,6,2212,0.9536,8.1667
+2023,Environmental Chemistry,6,2304,1.3915,17
+2023,Agronomy and Crop Science,5,1102,2.8478,29.6
+2023,Economics and Econometrics,5,2002,3.6158,17.8
+2023,Sociology and Political Science,5,3312,4.0921,9.4
+2023,Insect Science,4,1109,4.6091,24.25
+2023,Education,4,3304,10.9145,14.75
+2023,"Statistics, Probability and Uncertainty",3,1804,3.1566,17
+2023,Geology,2,1907,1.2549,5.5
+2023,Aquatic Science,1,1104,1.6394,8
+2023,Food Science,1,1106,5.0943,40
+2023,Genetics,1,1311,0.9937,6
+2023,Molecular Biology,1,1312,0.5233,7
+2023,Management of Technology and Innovation,1,1405,2.4545,10
+2023,Management Science and Operations Research,1,1803,1.4817,8
+2023,Paleontology,1,1911,9.5041,47
+2023,"General Economics, Econometrics and Finance",1,2000,0,0
+2023,"Renewable Energy, Sustainability and the Environment",1,2105,0.1402,3
+2023,Civil and Structural Engineering,1,2205,0.5868,5
+2023,Control and Systems Engineering,1,2207,0.4335,4
+2023,Pollution,1,2310,0.2956,5
+2023,Waste Management and Disposal,1,2311,2.8294,17
+2023,Law,1,3308,12.7295,101
+2023,Political Science and International Relations,1,3320,15.0909,15
+2023,Urban Studies,1,3322,7.0369,12
+2024,Global and Planetary Change,712,2306,2.7671,15.8118
+2024,Ecology,82,2303,3.3189,13.3902
+2024,Soil Science,36,1111,2.1145,13.8056
+2024,Environmental Engineering,33,2305,2.0202,19.1212
+2024,"Management, Monitoring, Policy and Law",31,2308,3.6147,10.2581
+2024,Water Science and Technology,31,2312,1.4362,12.7097
+2024,Nature and Landscape Conservation,24,2309,2.1112,8
+2024,Ecological Modeling,19,2302,6.2505,14.0526
+2024,Oceanography,17,1910,2.7302,12.5882
+2024,Ocean Engineering,14,2212,3.3068,19
+2024,"Health, Toxicology and Mutagenesis",14,2307,2.2957,16.2143
+2024,"Ecology, Evolution, Behavior and Systematics",13,1105,3.2396,8.6154
+2024,Atmospheric Science,13,1902,1.7599,9.5385
+2024,Plant Science,11,1110,4.6563,31
+2024,Forestry,9,1107,7.1414,10.4444
+2024,Environmental Chemistry,9,2304,1.327,10.5556
+2024,Economics and Econometrics,8,2002,1.7717,5
+2024,Sociology and Political Science,8,3312,9.6303,15.375
+2024,Genetics,6,1311,1.6815,7
+2024,Earth-Surface Processes,6,1904,4.0691,15
+2024,Media Technology,4,2214,5.044,30
+2024,Pollution,4,2310,1.0028,18.25
+2024,General Agricultural and Biological Sciences,3,1100,8.1637,11.3333
+2024,"Statistics, Probability and Uncertainty",3,1804,1.4387,5.3333
+2024,Civil and Structural Engineering,3,2205,2.3134,13.6667
+2024,Agronomy and Crop Science,2,1102,5.4593,11
+2024,Geology,2,1907,1.7929,4.5
+2024,Paleontology,2,1911,14.656,46
+2024,Building and Construction,2,2215,2.6305,26
+2024,Political Science and International Relations,2,3320,13.1921,8
+2024,Biophysics,1,1304,1.1518,6
+2024,Molecular Biology,1,1312,1.0418,9
+2024,Strategy and Management,1,1408,0,0
+2024,"General Economics, Econometrics and Finance",1,2000,3.3865,5
+2024,Finance,1,2003,7.1214,20
+2024,Aerospace Engineering,1,2202,2.8063,16
+2024,Waste Management and Disposal,1,2311,0.5229,2
+2024,Education,1,3304,70.3318,56
+2024,"Geography, Planning and Development",1,3305,6.3321,3
+2024,Law,1,3308,10.4349,4
+2024,Anthropology,1,3314,1.8115,1
+2025,Global and Planetary Change,829,2306,2.643,6.3788
+2025,Ecology,137,2303,2.5544,5.2993
+2025,"Management, Monitoring, Policy and Law",47,2308,4.1729,4.4681
+2025,Environmental Engineering,36,2305,2.1158,7.9167
+2025,Nature and Landscape Conservation,35,2309,2.3188,3.8
+2025,Water Science and Technology,32,2312,1.8256,7.1875
+2025,Soil Science,31,1111,2.7942,7.2581
+2025,"Ecology, Evolution, Behavior and Systematics",25,1105,4.5083,5.28
+2025,Oceanography,21,1910,3.1316,6.5238
+2025,Ecological Modeling,20,2302,9.9028,5.1
+2025,Environmental Chemistry,19,2304,1.2074,4.1053
+2025,Ocean Engineering,18,2212,1.809,4.6111
+2025,"Health, Toxicology and Mutagenesis",17,2307,1.6666,5.2353
+2025,Earth-Surface Processes,12,1904,3.3604,5.1667
+2025,Media Technology,10,2214,3.2711,7.5
+2025,Plant Science,9,1110,3.6239,10.3333
+2025,Forestry,8,1107,8.2198,6.75
+2025,Atmospheric Science,8,1902,1.5108,3.375
+2025,Economics and Econometrics,7,2002,4.5077,4.8571
+2025,Building and Construction,6,2215,1.9159,4.5
+2025,General Agricultural and Biological Sciences,5,1100,11.0062,6.2
+2025,Insect Science,5,1109,0.7369,1.4
+2025,"Statistics, Probability and Uncertainty",4,1804,4.2886,7.75
+2025,Civil and Structural Engineering,4,2205,1.4827,4
+2025,Law,4,3308,29.8384,8.25
+2025,Sociology and Political Science,4,3312,3.5522,4.25
+2025,Education,3,3304,15.0729,4.6667
+2025,Agronomy and Crop Science,2,1102,9.6288,9
+2025,Genetics,2,1311,1.074,2
+2025,Strategy and Management,2,1408,0.884,1
+2025,Pollution,2,2310,0.888,4
+2025,"Geography, Planning and Development",2,3305,13.3122,3
+2025,Horticulture,1,1108,6.7957,5
+2025,Cell Biology,1,1307,2.0478,5
+2025,Developmental Biology,1,1309,11.0161,12
+2025,Molecular Biology,1,1312,12.3349,50
+2025,Management Science and Operations Research,1,1803,1.5605,2
+2025,Mechanics of Materials,1,2211,0.6482,2
+2025,Cultural Studies,1,3316,6.9066,1
+2025,Urban Studies,1,3322,46.9224,24

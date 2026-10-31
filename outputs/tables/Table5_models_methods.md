@@ -1,0 +1,22 @@
+**Table 5.** Models and quantification systems: volume, diffusion and impact.
+
+| Model / method family | Articles | Share 2015 (%) | Share 2025 (%) | Mean citations | Mean FWCI | Open access (%) |
+|---|---|---|---|---|---|---|
+| InVEST suite (exact match) | 994 | 3.1 | 18.1 | — | 3.29 | — |
+| Value-coefficient / benefit transfer (ESV) | 960 | 7.9 | 12.2 | 31.6 | 2.73 | 66.6 |
+| Uncertainty, validation and field data | 736 | 8.4 | 9.6 | 46.4 | 3.77 | 66.4 |
+| Machine and deep learning | 540 | 0.5 | 14.3 | 33.7 | 4.24 | 68.3 |
+| Participatory / stakeholder mapping | 450 | 8.4 | 4.7 | 39.4 | 3.49 | 65.8 |
+| PLUS / FLUS / CLUE-S simulation | 402 | 1.0 | 8.2 | 29.8 | 3.36 | 79.4 |
+| SSP–RCP / CMIP scenarios | 322 | 2.6 | 7.1 | 29.5 | 4.35 | 70.8 |
+| Geodetector / (M)GWR | 291 | 0.5 | 6.8 | 27.0 | 3.20 | 69.8 |
+| CA–Markov / cellular automata | 228 | 1.0 | 3.1 | 30.9 | 2.78 | 66.7 |
+| CASA / NPP light-use efficiency | 189 | 2.1 | 2.6 | 39.2 | 3.15 | 68.3 |
+| MaxEnt / species distribution models | 146 | 1.0 | 3.0 | 21.7 | 5.89 | 63.7 |
+| Google Earth Engine | 139 | 0.0 | 2.4 | 31.3 | 3.49 | 71.9 |
+| ARIES / Co$ting Nature / SolVES | 106 | 0.5 | 0.4 | 48.1 | 7.61 | 65.1 |
+| Bayesian networks / system dynamics / ABM | 106 | 2.6 | 1.6 | 51.3 | 3.61 | 58.5 |
+| SWAT | 86 | 1.6 | 0.9 | 34.9 | 2.40 | 59.3 |
+| (R)USLE | 83 | 0.5 | 0.9 | 48.0 | 3.43 | 62.7 |
+
+Shares are percentages of each year’s corpus. “—” = not computed for the exact-match InVEST query. ABM = agent-based model; SolVES = Social Values for Ecosystem Services.

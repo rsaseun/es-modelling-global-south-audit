@@ -1,0 +1,950 @@
+{
+ "Table 1": {
+  "caption": "Search strategy: facets, terms and equivalent strings for OpenAlex (primary retrieval), Google Scholar and Dimensions (recall benchmarking).",
+  "head": [
+   "Facet / system",
+   "Search terms and syntax",
+   "Notes"
+  ],
+  "rows": [
+   [
+    "F1 Ecosystem services",
+    "“ecosystem service*” OR “ecological service*” OR “environmental service*” OR “nature contributions to people” OR “natural capital”",
+    "Title, abstract and OpenAlex keywords"
+   ],
+   [
+    "F2 Spatially explicit modelling",
+    "“spatially explicit” OR spatial* OR spatiotemporal OR mapping OR map* OR GIS OR “remote sensing” OR satellite OR InVEST OR ARIES OR SWAT OR RUSLE OR “CA-Markov” OR FLUS OR “PLUS model” OR “Google Earth Engine” OR Landsat OR MODIS OR Sentinel OR “machine learning” OR “random forest” OR scenario* OR simulat* OR raster OR pixel OR geospatial OR hotspot*",
+    "Names of models and sensors broaden recall of applied studies"
+   ],
+   [
+    "F3 Climate & environmental change",
+    "“climate change” OR “climate variab*” OR warming OR drought OR “land use change” OR “land cover change” OR urbani?ation OR deforestation OR degradation OR desertification OR “environmental change” OR “global change” OR “landscape change”",
+    "Captures both climatic and land-system drivers"
+   ],
+   [
+    "F4 Global South",
+    "Author affiliation flagged Global South by OpenAlex OR title/abstract mention of Africa*, Asia*, Latin America*, Caribbean, Middle East, “developing countr*” and 80 country or landscape names",
+    "Study-area clause captures externally led research"
+   ],
+   [
+    "Filters",
+    "Publication years 1990–2025; type = article or review; then screening (Table 2)",
+    "OQL query archived in the Supplementary material"
+   ],
+   [
+    "Google Scholar (benchmark)",
+    "“ecosystem services” (InVEST OR mapping OR model) (“climate change” OR “land use change”) (Africa OR Asia OR “Latin America” OR “Global South”); custom range 1990–2025; patents and citations excluded",
+    "Run as several country-specific strings to respect the 256-character limit"
+   ],
+   [
+    "Dimensions (benchmark)",
+    "Title and abstract: F1 AND F2 AND F3 AND F4 (same terms); Publication type = Article; Years 1990–2025; Fields of Research 2020: 41 Environmental Sciences, 37 Earth Sciences, 30 Agricultural, Veterinary and Food Sciences",
+    "Used for recall benchmarking and grant linkage checks"
+   ]
+  ],
+  "note": ""
+ },
+ "Table 2": {
+  "caption": "Screening stages, criteria and record counts (OpenAlex, retrieved October 2026).",
+  "head": [
+   "Stage",
+   "Criterion",
+   "Excluded",
+   "Remaining",
+   "Share retained (%)"
+  ],
+  "rows": [
+   [
+    "0",
+    "Records identified by the four-facet OQL query (articles and reviews, 1990–2025)",
+    "—",
+    "9,632",
+    "100.0"
+   ],
+   [
+    "1",
+    "Retracted works",
+    "4",
+    "9,628",
+    "99.96"
+   ],
+   [
+    "2",
+    "Non-journal primary location (repositories/preprints 360, conference 4, book series 2, unknown 221)",
+    "587",
+    "9,041",
+    "93.9"
+   ],
+   [
+    "3",
+    "Non-English records",
+    "249",
+    "8,792",
+    "91.3"
+   ],
+   [
+    "4",
+    "Journal neither CWTS-core nor DOAJ-listed (untracked peer review)",
+    "706",
+    "8,086",
+    "83.9"
+   ],
+   [
+    "5",
+    "Publisher on Stop Predatory Journals list (12 publishers)",
+    "75",
+    "8,011",
+    "83.2"
+   ],
+   [
+    "6",
+    "Primary field outside the review domain",
+    "39",
+    "7,972",
+    "82.8"
+   ],
+   [
+    "Audit",
+    "Random relevance audit of final corpus (n = 25): strictly relevant 18 (72%), marginal 2 (8%), off-topic 5 (20%)",
+    "—",
+    "7,972",
+    "—"
+   ]
+  ],
+  "note": ""
+ },
+ "Table 3": {
+  "caption": "Decadal descriptive statistics of the screened corpus.",
+  "head": [
+   "Decade",
+   "Articles",
+   "Share (%)",
+   "Mean per year",
+   "Within-decade CAGR (%)",
+   "Mean citations",
+   "Mean FWCI",
+   "Open access (%)"
+  ],
+  "rows": [
+   [
+    "1990s (1990–1999)",
+    "16",
+    "0.2",
+    "1.6",
+    "n.a.ᵃ",
+    "368.4",
+    "10.20",
+    "12.5"
+   ],
+   [
+    "2000s (2000–2009)",
+    "237",
+    "3.0",
+    "23.7",
+    "26.0",
+    "102.8",
+    "4.90",
+    "31.2"
+   ],
+   [
+    "2010s (2010–2019)",
+    "2,087",
+    "26.2",
+    "208.7",
+    "22.5",
+    "90.9",
+    "5.23",
+    "54.4"
+   ],
+   [
+    "2020–2025",
+    "5,632",
+    "70.6",
+    "938.7",
+    "20.5",
+    "25.3",
+    "3.10",
+    "71.5"
+   ],
+   [
+    "1990–2025",
+    "7,972",
+    "100.0",
+    "221.4",
+    "24.6ᵇ",
+    "45.5",
+    "3.73",
+    "65.7"
+   ]
+  ],
+  "note": "ᵃ Not meaningful because of very small annual counts. ᵇ Exponential growth rate for 2000–2025 (R² = 0.99). FWCI = field-weighted citation impact; CAGR = compound annual growth rate."
+ },
+ "Table 4": {
+  "caption": "Ecosystem-service categories: volume, decadal distribution, growth and impact.",
+  "head": [
+   "ES category",
+   "Articles",
+   "Corpus (%)",
+   "2000s",
+   "2010s",
+   "2020–25",
+   "CAGRᵃ (%)",
+   "Mean citations",
+   "Mean FWCI"
+  ],
+  "rows": [
+   [
+    "Habitat quality / biodiversity",
+    "2,452",
+    "30.8",
+    "85",
+    "622",
+    "1,740",
+    "22.9",
+    "44.8",
+    "4.20"
+   ],
+   [
+    "Carbon storage / sequestration",
+    "1,536",
+    "19.3",
+    "32",
+    "324",
+    "1,179",
+    "26.2",
+    "45.4",
+    "4.07"
+   ],
+   [
+    "Water yield / provision",
+    "1,209",
+    "15.2",
+    "23",
+    "257",
+    "929",
+    "27.5",
+    "41.7",
+    "3.40"
+   ],
+   [
+    "Marine and coastal",
+    "1,111",
+    "13.9",
+    "35",
+    "305",
+    "767",
+    "19.7",
+    "43.4",
+    "4.01"
+   ],
+   [
+    "Soil conservation / erosion",
+    "999",
+    "12.5",
+    "19",
+    "191",
+    "787",
+    "29.8",
+    "41.5",
+    "3.75"
+   ],
+   [
+    "Crop / food production",
+    "768",
+    "9.6",
+    "29",
+    "222",
+    "514",
+    "20.1",
+    "57.8",
+    "5.19"
+   ],
+   [
+    "Cultural / recreation",
+    "546",
+    "6.8",
+    "16",
+    "155",
+    "374",
+    "21.9",
+    "39.0",
+    "3.42"
+   ],
+   [
+    "Nutrient cycling / retention",
+    "339",
+    "4.3",
+    "15",
+    "91",
+    "232",
+    "22.7",
+    "54.6",
+    "4.27"
+   ],
+   [
+    "Flood / hazard regulation",
+    "238",
+    "3.0",
+    "8",
+    "63",
+    "167",
+    "19.7",
+    "53.0",
+    "3.78"
+   ],
+   [
+    "Pollination",
+    "156",
+    "2.0",
+    "11",
+    "50",
+    "95",
+    "15.5",
+    "49.6",
+    "4.30"
+   ],
+   [
+    "Air purification",
+    "133",
+    "1.7",
+    "3",
+    "38",
+    "90",
+    "19.7",
+    "68.8",
+    "3.73"
+   ],
+   [
+    "Urban heat mitigation / cooling",
+    "112",
+    "1.4",
+    "2",
+    "21",
+    "89",
+    "35.0",
+    "42.7",
+    "3.78"
+   ]
+  ],
+  "note": "ᵃ Smoothed CAGR between 2015–2017 and 2023–2025 three-year means. Decadal columns exclude the 1990s (≤5 articles per category). Categories overlap; percentages do not sum to 100."
+ },
+ "Table 5": {
+  "caption": "Models and quantification systems: volume, diffusion and impact.",
+  "head": [
+   "Model / method family",
+   "Articles",
+   "Share 2015 (%)",
+   "Share 2025 (%)",
+   "Mean citations",
+   "Mean FWCI",
+   "Open access (%)"
+  ],
+  "rows": [
+   [
+    "InVEST suite (exact match)",
+    "994",
+    "3.1",
+    "18.1",
+    "—",
+    "3.29",
+    "—"
+   ],
+   [
+    "Value-coefficient / benefit transfer (ESV)",
+    "960",
+    "7.9",
+    "12.2",
+    "31.6",
+    "2.73",
+    "66.6"
+   ],
+   [
+    "Uncertainty, validation and field data",
+    "736",
+    "8.4",
+    "9.6",
+    "46.4",
+    "3.77",
+    "66.4"
+   ],
+   [
+    "Machine and deep learning",
+    "540",
+    "0.5",
+    "14.3",
+    "33.7",
+    "4.24",
+    "68.3"
+   ],
+   [
+    "Participatory / stakeholder mapping",
+    "450",
+    "8.4",
+    "4.7",
+    "39.4",
+    "3.49",
+    "65.8"
+   ],
+   [
+    "PLUS / FLUS / CLUE-S simulation",
+    "402",
+    "1.0",
+    "8.2",
+    "29.8",
+    "3.36",
+    "79.4"
+   ],
+   [
+    "SSP–RCP / CMIP scenarios",
+    "322",
+    "2.6",
+    "7.1",
+    "29.5",
+    "4.35",
+    "70.8"
+   ],
+   [
+    "Geodetector / (M)GWR",
+    "291",
+    "0.5",
+    "6.8",
+    "27.0",
+    "3.20",
+    "69.8"
+   ],
+   [
+    "CA–Markov / cellular automata",
+    "228",
+    "1.0",
+    "3.1",
+    "30.9",
+    "2.78",
+    "66.7"
+   ],
+   [
+    "CASA / NPP light-use efficiency",
+    "189",
+    "2.1",
+    "2.6",
+    "39.2",
+    "3.15",
+    "68.3"
+   ],
+   [
+    "MaxEnt / species distribution models",
+    "146",
+    "1.0",
+    "3.0",
+    "21.7",
+    "5.89",
+    "63.7"
+   ],
+   [
+    "Google Earth Engine",
+    "139",
+    "0.0",
+    "2.4",
+    "31.3",
+    "3.49",
+    "71.9"
+   ],
+   [
+    "ARIES / Co$ting Nature / SolVES",
+    "106",
+    "0.5",
+    "0.4",
+    "48.1",
+    "7.61",
+    "65.1"
+   ],
+   [
+    "Bayesian networks / system dynamics / ABM",
+    "106",
+    "2.6",
+    "1.6",
+    "51.3",
+    "3.61",
+    "58.5"
+   ],
+   [
+    "SWAT",
+    "86",
+    "1.6",
+    "0.9",
+    "34.9",
+    "2.40",
+    "59.3"
+   ],
+   [
+    "(R)USLE",
+    "83",
+    "0.5",
+    "0.9",
+    "48.0",
+    "3.43",
+    "62.7"
+   ]
+  ],
+  "note": "Shares are percentages of each year’s corpus. “—” = not computed for the exact-match InVEST query. ABM = agent-based model; SolVES = Social Values for Ecosystem Services."
+ },
+ "Table 6": {
+  "caption": "The 20 most productive journals (screened corpus).",
+  "head": [
+   "Rank",
+   "Journal",
+   "Articles",
+   "Corpus (%)",
+   "Mean citations",
+   "Mean FWCI",
+   "Open access (%)"
+  ],
+  "rows": [
+   [
+    "1",
+    "Ecological Indicators",
+    "503",
+    "6.3",
+    "53.1",
+    "5.06",
+    "84.9"
+   ],
+   [
+    "2",
+    "Sustainability",
+    "407",
+    "5.1",
+    "19.7",
+    "1.85",
+    "100"
+   ],
+   [
+    "3",
+    "Land",
+    "359",
+    "4.5",
+    "12.9",
+    "1.72",
+    "100"
+   ],
+   [
+    "4",
+    "Science of the Total Environment",
+    "238",
+    "3.0",
+    "91.9",
+    "6.39",
+    "32.8"
+   ],
+   [
+    "5",
+    "Remote Sensing",
+    "208",
+    "2.6",
+    "35.5",
+    "3.20",
+    "100"
+   ],
+   [
+    "6",
+    "Journal of Environmental Management",
+    "161",
+    "2.0",
+    "47.8",
+    "4.46",
+    "21.7"
+   ],
+   [
+    "7",
+    "Journal of Cleaner Production",
+    "123",
+    "1.5",
+    "69.3",
+    "6.26",
+    "9.8"
+   ],
+   [
+    "8",
+    "Forests",
+    "121",
+    "1.5",
+    "18.7",
+    "2.27",
+    "100"
+   ],
+   [
+    "9",
+    "Scientific Reports",
+    "117",
+    "1.5",
+    "26.0",
+    "3.86",
+    "100"
+   ],
+   [
+    "10",
+    "Land Use Policy",
+    "114",
+    "1.4",
+    "63.1",
+    "4.46",
+    "20.2"
+   ],
+   [
+    "11",
+    "Land Degradation & Development",
+    "110",
+    "1.4",
+    "31.6",
+    "2.86",
+    "31.8"
+   ],
+   [
+    "12",
+    "PLoS ONE",
+    "95",
+    "1.2",
+    "57.3",
+    "4.50",
+    "100"
+   ],
+   [
+    "13",
+    "Environmental Science and Pollution Research",
+    "95",
+    "1.2",
+    "25.1",
+    "2.18",
+    "14.7"
+   ],
+   [
+    "14",
+    "Int. J. Environmental Research and Public Health",
+    "93",
+    "1.2",
+    "23.4",
+    "1.70",
+    "100"
+   ],
+   [
+    "15",
+    "Water",
+    "86",
+    "1.1",
+    "23.0",
+    "1.90",
+    "100"
+   ],
+   [
+    "16",
+    "Frontiers in Environmental Science",
+    "86",
+    "1.1",
+    "16.0",
+    "2.18",
+    "100"
+   ],
+   [
+    "17",
+    "Ecosystem Services",
+    "83",
+    "1.0",
+    "76.2",
+    "4.52",
+    "51.8"
+   ],
+   [
+    "18",
+    "Environmental Monitoring and Assessment",
+    "82",
+    "1.0",
+    "25.1",
+    "2.35",
+    "19.5"
+   ],
+   [
+    "19",
+    "Environmental Research Letters",
+    "67",
+    "0.8",
+    "48.2",
+    "3.39",
+    "100"
+   ],
+   [
+    "20",
+    "Environment, Development and Sustainability",
+    "58",
+    "0.7",
+    "15.0",
+    "1.45",
+    "22.4"
+   ]
+  ],
+  "note": ""
+ },
+ "Table 7": {
+  "caption": "The 20 most prolific authors and the 20 most frequently acknowledged funders.",
+  "head": [
+   "Author",
+   "Articles",
+   "FWCI",
+   "Funder",
+   "Country",
+   "Articles"
+  ],
+  "rows": [
+   [
+    "Bojie Fu",
+    "36",
+    "6.66",
+    "National Natural Science Foundation of China",
+    "China",
+    "1,913"
+   ],
+   [
+    "Zhiyun Ouyang",
+    "29",
+    "7.64",
+    "National Key R&D Program of China",
+    "China",
+    "466"
+   ],
+   [
+    "Wanxu Chen",
+    "26",
+    "5.48",
+    "Chinese Academy of Sciences",
+    "China",
+    "302"
+   ],
+   [
+    "Yihe Lü",
+    "24",
+    "4.52",
+    "CNPq",
+    "Brazil",
+    "230"
+   ],
+   [
+    "Hua Zheng",
+    "22",
+    "7.66",
+    "National Science Foundation",
+    "USA",
+    "219"
+   ],
+   [
+    "Luo Guo",
+    "22",
+    "2.58",
+    "CAPES",
+    "Brazil",
+    "200"
+   ],
+   [
+    "Daniel A. Friess",
+    "20",
+    "10.85",
+    "European Commission",
+    "EU",
+    "184"
+   ],
+   [
+    "Wenwu Zhao",
+    "19",
+    "4.00",
+    "Fundamental Research Funds for Central Universities",
+    "China",
+    "183"
+   ],
+   [
+    "Shiliang Liu",
+    "19",
+    "3.09",
+    "Natural Environment Research Council",
+    "UK",
+    "132"
+   ],
+   [
+    "Jian Peng",
+    "18",
+    "9.22",
+    "Ministry of Science and Technology",
+    "China",
+    "114"
+   ],
+   [
+    "Wei Song",
+    "18",
+    "5.06",
+    "NASA",
+    "USA",
+    "108"
+   ],
+   [
+    "Kangning Xiong",
+    "17",
+    "3.05",
+    "U.S. Geological Survey",
+    "USA",
+    "92"
+   ],
+   [
+    "Christine Fürst",
+    "16",
+    "3.83",
+    "FAPESP",
+    "Brazil",
+    "91"
+   ],
+   [
+    "Jinyan Zhan",
+    "16",
+    "5.54",
+    "BMBF",
+    "Germany",
+    "87"
+   ],
+   [
+    "Liwei Zhang",
+    "16",
+    "3.39",
+    "China Scholarship Council",
+    "China",
+    "87"
+   ],
+   [
+    "Feng Li",
+    "16",
+    "5.82",
+    "China Postdoctoral Science Foundation",
+    "China",
+    "84"
+   ],
+   [
+    "Yang Bai",
+    "16",
+    "5.39",
+    "National Social Science Fund of China",
+    "China",
+    "83"
+   ],
+   [
+    "Teshome Soromessa",
+    "15",
+    "5.65",
+    "CGIAR Consortium",
+    "International",
+    "72"
+   ],
+   [
+    "Ge Sun",
+    "15",
+    "5.16",
+    "National Research Foundation",
+    "South Africa",
+    "71"
+   ],
+   [
+    "Jie Zeng",
+    "14",
+    "4.77",
+    "Deutsche Forschungsgemeinschaft",
+    "Germany",
+    "62"
+   ]
+  ],
+  "note": "Author counts depend on OpenAlex name disambiguation and should be read as indicative. CNPq, CAPES and FAPESP are Brazilian federal and São Paulo state agencies; BMBF = German Federal Ministry of Education and Research; NASA = National Aeronautics and Space Administration."
+ },
+ "Table 8": {
+  "caption": "Challenges of spatially explicit ES research in the Global South: key factors, corpus evidence and regional expression.",
+  "head": [
+   "Challenge domain",
+   "Key factor / variable",
+   "Evidence from the corpus",
+   "Regional expression (Africa | Asia)"
+  ],
+  "rows": [
+   [
+    "Research ownership",
+    "Location of authorship; leadership; data sovereignty",
+    "32.0% (SSA), 37.6% (LAC), 24.9% (S&SE Asia) of region-focused articles lack a Global South-affiliated author",
+    "Africa: externally led, higher-visibility studies (FWCI 4.76 vs 2.32) | Asia: domestic ownership high in China (7.9% external), lower elsewhere"
+   ],
+   [
+    "Data and validation",
+    "Ground-truth density; uncertainty reporting",
+    "Uncertainty/validation mentioned in 9.2% of articles; flat share 2015–2025",
+    "Africa: sparse gauges and inventories | Asia: default parameters in multi-scenario chains"
+   ],
+   [
+    "Methodological transfer",
+    "Value coefficients; transferred biophysical tables",
+    "ESV coefficients in 960 articles (12.2% of 2025 output); FWCI 2.73",
+    "Africa: ESV in Ethiopian and Kenyan highlands | Asia: equivalent-factor ESV in Chinese basins"
+   ],
+   [
+    "Thematic mismatch",
+    "Alignment with livelihood and hazard risks",
+    "Food production 9.6%; pollination, flood and cooling < 7% combined; adaptation and food-security concepts declining",
+    "Africa: food, water and drought under-modelled | Asia: urban heat and flood risk rising faster than research"
+   ],
+   [
+    "Collaboration structure",
+    "South–South linkage; network brokerage",
+    "South–South links carry 8.0% of collaborative weight; 61.7% single-country articles",
+    "Africa: links routed via Europe (Euro-African community) | Asia: links routed via the USA and Australia"
+   ],
+   [
+    "Funding and publishing",
+    "Funder origin; peer-review traceability; APCs",
+    "Chinese funders account for 3,232 of the top-20 funder acknowledgements; 706 records in untracked-review journals; 75 in predatory-listed outlets",
+    "Africa: one national funder (South Africa) among top 20 | Asia: strong domestic funding in China, weaker in South and Southeast Asia"
+   ]
+  ],
+  "note": "SSA = sub-Saharan Africa; LAC = Latin America and the Caribbean; S&SE Asia = South and Southeast Asia; APC = article-processing charge."
+ },
+ "Table 9": {
+  "caption": "Components of the TRACE-ES framework, the evidence that motivates them and measurable indicators for 2026–2035.",
+  "head": [
+   "Pillar",
+   "Core actions",
+   "Motivating evidence (this review)",
+   "Indicator to track (target 2035)"
+  ],
+  "rows": [
+   [
+    "T — Transferable quantification",
+    "Tiered modelling; regional parameter libraries; process–ML hybrids",
+    "InVEST 18.1% and ESV coefficients 12.2% of 2025 output; low FWCI of ESV studies (2.73)",
+    "Share of studies with locally calibrated parameters (≥50%)"
+   ],
+   [
+    "R — Robustness and credibility",
+    "Ensembles; uncertainty propagation; in-situ validation; model cards",
+    "Validation/uncertainty in 9.2% of articles; no growth since 2015",
+    "Share reporting uncertainty or validation (≥40%)"
+   ],
+   [
+    "A — Analytical integration",
+    "Coupled LUCC × climate × supply–demand × trade-off workflows; causal attribution",
+    "PLUS/FLUS 1.0%→8.2%; SSP–RCP 2.6%→7.1%; ML 0.5%→14.3% (2015→2025)",
+    "Share of scenario studies linking ES to planning or accounting outputs"
+   ],
+   [
+    "C/E — Co-production and equity",
+    "Global South leadership; CARE data governance; participatory NCP; South–South hubs; quality-assured open outlets",
+    "24.9–37.6% of non-Chinese regional articles without Global South author; South–South links 8.0% of collaboration weight",
+    "External-only share (≤10%); South–South weight (≥20%)"
+   ],
+   [
+    "Outcomes",
+    "SEEA-EA accounts; NbS targeting; GBF and SDG reporting",
+    "Food production, flood regulation, pollination and cooling under-represented",
+    "Share of articles on livelihood- and hazard-critical services (≥30%)"
+   ]
+  ],
+  "note": ""
+ }
+}

@@ -1,0 +1,24 @@
+**Table 6.** The 20 most productive journals (screened corpus).
+
+| Rank | Journal | Articles | Corpus (%) | Mean citations | Mean FWCI | Open access (%) |
+|---|---|---|---|---|---|---|
+| 1 | Ecological Indicators | 503 | 6.3 | 53.1 | 5.06 | 84.9 |
+| 2 | Sustainability | 407 | 5.1 | 19.7 | 1.85 | 100 |
+| 3 | Land | 359 | 4.5 | 12.9 | 1.72 | 100 |
+| 4 | Science of the Total Environment | 238 | 3.0 | 91.9 | 6.39 | 32.8 |
+| 5 | Remote Sensing | 208 | 2.6 | 35.5 | 3.20 | 100 |
+| 6 | Journal of Environmental Management | 161 | 2.0 | 47.8 | 4.46 | 21.7 |
+| 7 | Journal of Cleaner Production | 123 | 1.5 | 69.3 | 6.26 | 9.8 |
+| 8 | Forests | 121 | 1.5 | 18.7 | 2.27 | 100 |
+| 9 | Scientific Reports | 117 | 1.5 | 26.0 | 3.86 | 100 |
+| 10 | Land Use Policy | 114 | 1.4 | 63.1 | 4.46 | 20.2 |
+| 11 | Land Degradation & Development | 110 | 1.4 | 31.6 | 2.86 | 31.8 |
+| 12 | PLoS ONE | 95 | 1.2 | 57.3 | 4.50 | 100 |
+| 13 | Environmental Science and Pollution Research | 95 | 1.2 | 25.1 | 2.18 | 14.7 |
+| 14 | Int. J. Environmental Research and Public Health | 93 | 1.2 | 23.4 | 1.70 | 100 |
+| 15 | Water | 86 | 1.1 | 23.0 | 1.90 | 100 |
+| 16 | Frontiers in Environmental Science | 86 | 1.1 | 16.0 | 2.18 | 100 |
+| 17 | Ecosystem Services | 83 | 1.0 | 76.2 | 4.52 | 51.8 |
+| 18 | Environmental Monitoring and Assessment | 82 | 1.0 | 25.1 | 2.35 | 19.5 |
+| 19 | Environmental Research Letters | 67 | 0.8 | 48.2 | 3.39 | 100 |
+| 20 | Environment, Development and Sustainability | 58 | 0.7 | 15.0 | 1.45 | 22.4 |

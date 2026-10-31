@@ -1,0 +1,100 @@
+{
+ "regions": {
+  "China": {
+   "n": 2875,
+   "mean_cit": 39.91,
+   "fwci": 3.47,
+   "oa": 63.8
+  },
+  "South & Southeast Asia": {
+   "n": 902,
+   "mean_cit": 55.71,
+   "fwci": 4.27,
+   "oa": 61.1
+  },
+  "Sub-Saharan Africa": {
+   "n": 1024,
+   "mean_cit": 53.15,
+   "fwci": 3.88,
+   "oa": 71.9
+  },
+  "MENA & Central Asia": {
+   "n": 357,
+   "mean_cit": 29.81,
+   "fwci": 3.71,
+   "oa": 60.5
+  },
+  "Latin America & Caribbean": {
+   "n": 1380,
+   "mean_cit": 54.52,
+   "fwci": 3.97,
+   "oa": 66.6
+  },
+  "Pacific SIDS": {
+   "n": 32,
+   "mean_cit": 40.53,
+   "fwci": 2.33,
+   "oa": 62.5
+  }
+ },
+ "region_dec": {
+  "1990s": {
+   "China": 1,
+   "Latin America & Caribbean": 8,
+   "Sub-Saharan Africa": 2,
+   "South & Southeast Asia": 5,
+   "MENA & Central Asia": 1
+  },
+  "2000s": {
+   "China": 55,
+   "Latin America & Caribbean": 84,
+   "Sub-Saharan Africa": 43,
+   "South & Southeast Asia": 33,
+   "MENA & Central Asia": 5
+  },
+  "2010s": {
+   "China": 602,
+   "Latin America & Caribbean": 504,
+   "Sub-Saharan Africa": 366,
+   "South & Southeast Asia": 287,
+   "MENA & Central Asia": 77
+  },
+  "2020\u201325": {
+   "China": 2217,
+   "Latin America & Caribbean": 784,
+   "Sub-Saharan Africa": 613,
+   "South & Southeast Asia": 577,
+   "MENA & Central Asia": 274
+  }
+ },
+ "region_share_dec": {
+  "1990s": {
+   "China": 5.9,
+   "Latin America & Caribbean": 47.1,
+   "Sub-Saharan Africa": 11.8,
+   "South & Southeast Asia": 29.4,
+   "MENA & Central Asia": 5.9
+  },
+  "2000s": {
+   "China": 25.0,
+   "Latin America & Caribbean": 38.2,
+   "Sub-Saharan Africa": 19.5,
+   "South & Southeast Asia": 15.0,
+   "MENA & Central Asia": 2.3
+  },
+  "2010s": {
+   "China": 32.8,
+   "Latin America & Caribbean": 27.5,
+   "Sub-Saharan Africa": 19.9,
+   "South & Southeast Asia": 15.6,
+   "MENA & Central Asia": 4.2
+  },
+  "2020\u201325": {
+   "China": 49.7,
+   "Latin America & Caribbean": 17.6,
+   "Sub-Saharan Africa": 13.7,
+   "South & Southeast Asia": 12.9,
+   "MENA & Central Asia": 6.1
+  }
+ }
+}

@@ -1,0 +1,52 @@
+"""Table 1. Search strategy: facets, terms and equivalent strings for OpenAlex (primary retrieval), Google Scholar and Dimensions (recall benchmarking).
+
+The search facets are the archived OQL query in data/queries/; Google Scholar and Dimensions strings are recall benchmarks only.
+This table is qualitative, so its content is recorded here exactly as printed in
+the article and exported in machine-readable form.
+
+Run from the repository root:  python scripts/table01_search_strategy.py
+"""
+from _tables import write_table
+
+CAPTION = 'Search strategy: facets, terms and equivalent strings for OpenAlex (primary retrieval), Google Scholar and Dimensions (recall benchmarking).'
+HEAD = ['Facet / system', 'Search terms and syntax', 'Notes']
+ROWS = [['F1 Ecosystem services',
+  '“ecosystem service*” OR “ecological service*” OR “environmental service*” OR “nature contributions to '
+  'people” OR “natural capital”',
+  'Title, abstract and OpenAlex keywords'],
+ ['F2 Spatially explicit modelling',
+  '“spatially explicit” OR spatial* OR spatiotemporal OR mapping OR map* OR GIS OR “remote sensing” OR '
+  'satellite OR InVEST OR ARIES OR SWAT OR RUSLE OR “CA-Markov” OR FLUS OR “PLUS model” OR “Google Earth '
+  'Engine” OR Landsat OR MODIS OR Sentinel OR “machine learning” OR “random forest” OR scenario* OR simulat* '
+  'OR raster OR pixel OR geospatial OR hotspot*',
+  'Names of models and sensors broaden recall of applied studies'],
+ ['F3 Climate & environmental change',
+  '“climate change” OR “climate variab*” OR warming OR drought OR “land use change” OR “land cover change” '
+  'OR urbani?ation OR deforestation OR degradation OR desertification OR “environmental change” OR “global '
+  'change” OR “landscape change”',
+  'Captures both climatic and land-system drivers'],
+ ['F4 Global South',
+  'Author affiliation flagged Global South by OpenAlex OR title/abstract mention of Africa*, Asia*, Latin '
+  'America*, Caribbean, Middle East, “developing countr*” and 80 country or landscape names',
+  'Study-area clause captures externally led research'],
+ ['Filters',
+  'Publication years 1990–2025; type = article or review; then screening (Table 2)',
+  'OQL query archived in the Supplementary material'],
+ ['Google Scholar (benchmark)',
+  '“ecosystem services” (InVEST OR mapping OR model) (“climate change” OR “land use change”) (Africa OR Asia '
+  'OR “Latin America” OR “Global South”); custom range 1990–2025; patents and citations excluded',
+  'Run as several country-specific strings to respect the 256-character limit'],
+ ['Dimensions (benchmark)',
+  'Title and abstract: F1 AND F2 AND F3 AND F4 (same terms); Publication type = Article; Years 1990–2025; '
+  'Fields of Research 2020: 41 Environmental Sciences, 37 Earth Sciences, 30 Agricultural, Veterinary and '
+  'Food Sciences',
+  'Used for recall benchmarking and grant linkage checks']]
+NOTE = ''
+
+
+def main():
+    return write_table(1, 'search_strategy', CAPTION, HEAD, ROWS, NOTE)
+
+
+if __name__ == "__main__":
+    main()

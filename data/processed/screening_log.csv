@@ -1,0 +1,8 @@
+stage,criterion,excluded,identified
+0,"Records identified by the four-facet OQL query (articles and reviews, 1990–2025)",,9632
+1,Retracted works,4,
+2,"Non-journal primary location (repositories/preprints 360, conference 4, book series 2, unknown 221)",587,
+3,Non-English records,249,
+4,Journal neither CWTS-core nor DOAJ-listed (untracked peer review),706,
+5,Publisher on Stop Predatory Journals list (12 publishers),75,
+6,Primary field outside the review domain,39,

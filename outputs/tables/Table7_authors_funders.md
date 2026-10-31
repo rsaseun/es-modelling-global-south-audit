@@ -1,0 +1,26 @@
+**Table 7.** The 20 most prolific authors and the 20 most frequently acknowledged funders.
+
+| Author | Articles | FWCI | Funder | Country | Articles |
+|---|---|---|---|---|---|
+| Bojie Fu | 36 | 6.66 | National Natural Science Foundation of China | China | 1,913 |
+| Zhiyun Ouyang | 29 | 7.64 | National Key R&D Program of China | China | 466 |
+| Wanxu Chen | 26 | 5.48 | Chinese Academy of Sciences | China | 302 |
+| Yihe Lü | 24 | 4.52 | CNPq | Brazil | 230 |
+| Hua Zheng | 22 | 7.66 | National Science Foundation | USA | 219 |
+| Luo Guo | 22 | 2.58 | CAPES | Brazil | 200 |
+| Daniel A. Friess | 20 | 10.85 | European Commission | EU | 184 |
+| Wenwu Zhao | 19 | 4.00 | Fundamental Research Funds for Central Universities | China | 183 |
+| Shiliang Liu | 19 | 3.09 | Natural Environment Research Council | UK | 132 |
+| Jian Peng | 18 | 9.22 | Ministry of Science and Technology | China | 114 |
+| Wei Song | 18 | 5.06 | NASA | USA | 108 |
+| Kangning Xiong | 17 | 3.05 | U.S. Geological Survey | USA | 92 |
+| Christine Fürst | 16 | 3.83 | FAPESP | Brazil | 91 |
+| Jinyan Zhan | 16 | 5.54 | BMBF | Germany | 87 |
+| Liwei Zhang | 16 | 3.39 | China Scholarship Council | China | 87 |
+| Feng Li | 16 | 5.82 | China Postdoctoral Science Foundation | China | 84 |
+| Yang Bai | 16 | 5.39 | National Social Science Fund of China | China | 83 |
+| Teshome Soromessa | 15 | 5.65 | CGIAR Consortium | International | 72 |
+| Ge Sun | 15 | 5.16 | National Research Foundation | South Africa | 71 |
+| Jie Zeng | 14 | 4.77 | Deutsche Forschungsgemeinschaft | Germany | 62 |
+
+Author counts depend on OpenAlex name disambiguation and should be read as indicative. CNPq, CAPES and FAPESP are Brazilian federal and São Paulo state agencies; BMBF = German Federal Ministry of Education and Research; NASA = National Aeronautics and Space Administration.

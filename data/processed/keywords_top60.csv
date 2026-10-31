@@ -1,0 +1,61 @@
+id,name,count
+ecosystem-services,ecosystem services,3316
+land-use-change,land use change,1961
+urbanization,urbanization,1172
+land-use-and-land-cover-change,land use and land cover change,861
+ecosystem-service-value,ecosystem service value,713
+carbon-sequestration,carbon sequestration,575
+climate-change-impacts,climate change impacts,567
+water-yield,water yield,545
+habitat-quality,habitat quality,469
+carbon-storage,carbon storage,467
+ecological-restoration,ecological restoration,461
+deforestation,deforestation,450
+climate-change,climate change,436
+urban-expansion,urban expansion,366
+biodiversity-conservation,biodiversity conservation,363
+soil-conservation,soil conservation,360
+invest-model,InVEST model,359
+ecosystem-services-valuation,ecosystem services valuation,358
+spatiotemporal-variation,spatiotemporal variation,345
+land-cover-change,land cover change,307
+climate-change-adaptation,climate change adaptation,276
+sustainable-development,sustainable development,258
+protected-areas,protected areas,246
+normalized-difference-vegetation-index,NDVI,237
+ecosystem-service-trade-offs,ecosystem service trade-offs,236
+cropland-expansion,cropland expansion,232
+climate-change-mitigation,climate change mitigation,225
+soil-erosion,soil erosion,217
+land-use-planning,land use planning,202
+agricultural-expansion,agricultural expansion,190
+food-security,food security,186
+soil-retention,soil retention,186
+construction-land-expansion,construction land expansion,184
+driving-forces,driving factors,184
+net-primary-production,net primary productivity,181
+spatiotemporal-dynamics,spatiotemporal dynamics,181
+cultural-ecosystem-services,cultural ecosystem services,176
+biodiversity-loss,biodiversity loss,175
+regulating-services,regulating services,174
+spatial-heterogeneity,spatial heterogeneity,172
+landscape-fragmentation,landscape fragmentation,170
+built-up-area-expansion,built-up area expansion,169
+food-production,food production,169
+china,China,168
+water-conservation,water conservation,168
+ecological-corridors,ecological corridors,160
+land-degradation,land degradation,156
+ecological-protection,ecological protection,155
+ecological-security,ecological security,155
+farmland-loss,agricultural land loss,154
+tibetan-plateau,Tibetan Plateau,153
+biodiversity,biodiversity,148
+precipitation,precipitation,148
+drought,drought,140
+urban-green-space,urban green space,137
+urban-planning,urban planning,137
+vegetation-cover,vegetation cover,137
+scenario-based-simulation,scenario simulation,136
+nature-based-solutions,nature-based solutions,135
+spatiotemporal-evolution,spatiotemporal evolution,132

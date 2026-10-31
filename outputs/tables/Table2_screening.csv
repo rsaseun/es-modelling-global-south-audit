@@ -1,0 +1,9 @@
+Stage,Criterion,Excluded,Remaining,Share retained (%)
+0,"Records identified by the four-facet OQL query (articles and reviews, 1990–2025)",—,"9,632",100.0
+1,Retracted works,4,"9,628",99.96
+2,"Non-journal primary location (repositories/preprints 360, conference 4, book series 2, unknown 221)",587,"9,041",93.9
+3,Non-English records,249,"8,792",91.3
+4,Journal neither CWTS-core nor DOAJ-listed (untracked peer review),706,"8,086",83.9
+5,Publisher on Stop Predatory Journals list (12 publishers),75,"8,011",83.2
+6,Primary field outside the review domain,39,"7,972",82.8
+Audit,"Random relevance audit of final corpus (n = 25): strictly relevant 18 (72%), marginal 2 (8%), off-topic 5 (20%)",—,"7,972",—

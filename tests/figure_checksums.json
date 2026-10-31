@@ -1,0 +1,128 @@
+{
+ "Fig01_screening_flow.png": {
+  "figure": 1,
+  "shape": [
+   2707,
+   3375,
+   3
+  ],
+  "sha256_pixels": "518fce0f103881f5b0c7711fdddfd3738d2a85a0b22b7e2d4b89aef28b1c1778"
+ },
+ "Fig02_growth.png": {
+  "figure": 2,
+  "shape": [
+   3205,
+   4280,
+   3
+  ],
+  "sha256_pixels": "d824e403b331190df856f9b09aedec33c36056fb8b20ac32f9a8ece8a638dac1"
+ },
+ "Fig03_subject_areas.png": {
+  "figure": 3,
+  "shape": [
+   3342,
+   5103,
+   3
+  ],
+  "sha256_pixels": "34ec64cb0a822b4b25426c62ef9a2aa5a63b5e0b32d18f5d8022c58e3d71e270"
+ },
+ "Fig04_top20_themes.png": {
+  "figure": 4,
+  "shape": [
+   3734,
+   5193,
+   3
+  ],
+  "sha256_pixels": "e0160b5caa579b25c6955154ad4aa935b9b1c42652643f526bf311b1b4bb577d"
+ },
+ "Fig05_concepts.png": {
+  "figure": 5,
+  "shape": [
+   3868,
+   4319,
+   3
+  ],
+  "sha256_pixels": "60cdc098d0bbfbcbda6e96a42aa293ab257bcb8bf50d5209496a8afb6111bd8f"
+ },
+ "Fig06_ES_categories.png": {
+  "figure": 6,
+  "shape": [
+   3262,
+   4499,
+   3
+  ],
+  "sha256_pixels": "e093ea1621afec84c76f5c01991809a93d452b54d4fc18efaa7e7d2a66072b26"
+ },
+ "Fig07_ES_country_activity_index.png": {
+  "figure": 7,
+  "shape": [
+   2300,
+   4696,
+   3
+  ],
+  "sha256_pixels": "06fecece8e8f0977b1cdab6fe2f25c88d81fde05d9e4bf98eaa2acdda872281f"
+ },
+ "Fig08_models_methods.png": {
+  "figure": 8,
+  "shape": [
+   3695,
+   4654,
+   3
+  ],
+  "sha256_pixels": "b3c285ba0b1a4e552582dcd01cb54e5da9c0867e4c4feb3f72a08b8afa06f51a"
+ },
+ "Fig09_geography.png": {
+  "figure": 9,
+  "shape": [
+   3488,
+   4119,
+   3
+  ],
+  "sha256_pixels": "9dbc525ad32ce2a3045260f2de6b610b8bf1920804bce1765bb2860b49ba5eb3"
+ },
+ "Fig10_study_regions.png": {
+  "figure": 10,
+  "shape": [
+   1941,
+   4404,
+   3
+  ],
+  "sha256_pixels": "ef1580ab9c7d027f83ccf941563a231c34d19ca77130ff70fe56095b2ee7f059"
+ },
+ "Fig11_institutions.png": {
+  "figure": 11,
+  "shape": [
+   2729,
+   4385,
+   3
+  ],
+  "sha256_pixels": "61eaf98adcdd0083638ff73cde8e0fc6344d5890704f76dd1aa314e57eff2651"
+ },
+ "Fig12_collaboration_network.png": {
+  "figure": 12,
+  "shape": [
+   3092,
+   4025,
+   3
+  ],
+  "sha256_pixels": "7d1d5f25c45914488bd30e6b2ecfd6247199cdef0f9d6d3b647ea38d3fcbc73e"
+ },
+ "Fig13_equity_challenges.png": {
+  "figure": 13,
+  "shape": [
+   3325,
+   4441,
+   3
+  ],
+  "sha256_pixels": "34199f5aae1f03aebfa5f5fb7bb221e04ffb22b1fbe82ec0dec2ec66f28edbdf"
+ },
+ "Fig14_TRACE-ES_framework.png": {
+  "figure": 14,
+  "shape": [
+   10812,
+   7560,
+   3
+  ],
+  "sha256_pixels": "a9eea1dc265aafff6c6dda10a60e5868f9e61cae2a0691116ec5428c689ad230"
+ }
+}

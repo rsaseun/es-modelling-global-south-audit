@@ -1,0 +1,16 @@
+# Versions used to render the published figures (pixel identity is checked by tests/test_figures.py).
+# Python 3.13
+numpy==2.5.3
+pandas==3.0.5
+matplotlib==3.11.2
+geopandas==1.2.0
+pyogrio==0.13.0
+pyproj==3.8.0
+shapely==2.2.0
+networkx==3.7
+adjustText==1.4.0
+pycountry==26.2.16
+openpyxl==3.1.5
+pillow==12.3.0
+cairosvg==2.9.1
+pytest>=8

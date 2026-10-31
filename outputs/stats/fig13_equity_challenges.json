@@ -1,0 +1,18 @@
+{
+ "parachute_pct": {
+  "Sub-Saharan Africa": 32.0,
+  "Latin America & Caribbean": 37.6,
+  "South & Southeast Asia": 24.9,
+  "China": 7.9
+ },
+ "funder_origin": {
+  "ZA": 71,
+  "INT": 72,
+  "GB": 132,
+  "DE": 149,
+  "EU": 184,
+  "US": 419,
+  "BR": 521,
+  "CN": 3232
+ }
+}

@@ -1,0 +1,169 @@
+iso2,name,count,mean_cit,fwci
+CN,China,3901,41.37,3.55
+US,United States,1282,102.88,6.64
+GB,United Kingdom,647,95.78,6.58
+BR,Brazil,579,54.39,4.62
+DE,Germany,550,87.05,6.09
+IN,India,410,44.01,3.90
+AU,Australia,386,97.39,7.26
+ZA,South Africa,285,76.38,4.98
+ES,Spain,277,83.16,5.67
+NL,Netherlands,272,108.04,6.16
+FR,France,251,117.72,7.53
+CA,Canada,243,99.46,6.38
+IT,Italy,207,90.47,6.46
+ET,Ethiopia,190,41.96,3.99
+MX,Mexico,184,61.65,4.72
+KE,Kenya,179,91.09,6.49
+CH,Switzerland,166,117.33,8.26
+JP,Japan,163,80.75,6.14
+CO,Colombia,160,65.95,4.88
+AR,Argentina,156,76.84,4.32
+ID,Indonesia,151,63.60,4.33
+BE,Belgium,143,122.70,6.50
+IR,Iran,137,34.12,3.06
+SE,Sweden,136,143.31,7.62
+CL,Chile,120,78.76,5.38
+PT,Portugal,107,61.41,5.66
+MY,Malaysia,90,61.28,5.37
+DK,Denmark,89,106.93,7.93
+SG,Singapore,85,130.07,7.25
+AT,Austria,80,67.66,6.15
+GH,Ghana,72,40.03,3.95
+PE,Peru,72,62.99,4.00
+SA,Saudi Arabia,70,34.17,4.61
+BD,Bangladesh,69,42.13,4.40
+NO,Norway,67,142.27,10.51
+EC,Ecuador,64,44.70,2.92
+HK,Hong Kong,64,87.83,5.01
+VN,Vietnam,64,51.16,3.34
+FI,Finland,61,139.75,9.15
+TH,Thailand,60,45.38,3.69
+NZ,New Zealand,58,165.86,7.19
+KR,South Korea,55,34.71,3.05
+TZ,Tanzania,55,44.04,3.79
+TR,Turkey,54,28.56,4.70
+CR,Costa Rica,48,84.67,4.71
+NG,Nigeria,48,34.54,3.07
+NP,Nepal,48,54.08,4.80
+PL,Poland,48,68.46,7.16
+CZ,Czechia,47,107.64,7.76
+PK,Pakistan,45,30.76,3.13
+MA,Morocco,44,20.64,2.46
+PH,Philippines,44,112.14,7.58
+LK,Sri Lanka,37,43.51,2.63
+EG,Egypt,36,42.67,4.85
+LT,Lithuania,31,66.23,4.98
+RU,Russia,29,151.62,8.62
+UY,Uruguay,28,41.00,3.75
+BJ,Benin,26,23.77,3.25
+GR,Greece,25,74.12,9.36
+IE,Ireland,25,88.16,7.13
+HU,Hungary,24,156.00,6.01
+IL,Israel,22,100.95,8.79
+TW,Taiwan,22,55.50,7.24
+UG,Uganda,22,24.23,2.46
+MZ,Mozambique,19,31.11,2.61
+RO,Romania,19,59.16,8.85
+QA,Qatar,18,72.94,4.95
+BW,Botswana,17,52.18,4.09
+CI,Ivory Coast,17,62.24,3.61
+TN,Tunisia,17,25.29,5.36
+ZW,Zimbabwe,17,44.88,3.80
+EE,Estonia,16,129.50,10.74
+LB,Lebanon,16,52.44,4.88
+PR,Puerto Rico,15,263.13,14.22
+TG,Togo,15,14.07,2.27
+MN,Mongolia,14,49.79,4.49
+PA,Panama,14,271.57,15.45
+VE,Venezuela,14,69.14,4.98
+AE,United Arab Emirates,12,9.17,3.12
+BA,Bosnia & Herzegovina,12,52.00,9.80
+CD,DR Congo,12,69.83,2.31
+HR,Croatia,12,64.67,9.75
+IQ,Iraq,12,12.50,3.20
+SK,Slovakia,12,85.17,12.31
+KH,Cambodia,11,28.27,2.69
+MG,Madagascar,11,38.64,3.80
+RS,Serbia,11,57.55,7.50
+CM,Cameroon,10,123.60,5.89
+CY,Cyprus,10,19.60,3.53
+DZ,Algeria,10,42.40,3.58
+MW,Malawi,10,40.60,3.09
+BF,Burkina Faso,9,80.67,2.75
+LA,Laos,8,65.88,5.02
+ML,Mali,8,32.00,2.94
+NC,New Caledonia,8,172.88,10.15
+OM,Oman,8,33.50,3.53
+SI,Slovenia,8,83.38,16.42
+SN,Senegal,8,99.13,5.00
+BG,Bulgaria,7,52.43,12.93
+BO,Bolivia,7,211.00,17.34
+KW,Kuwait,7,28.14,5.87
+LV,Latvia,7,72.86,11.32
+MO,Macao,7,11.43,2.89
+NA,Namibia,7,26.71,4.41
+RE,Réunion,7,61.71,4.51
+RW,Rwanda,7,29.14,2.97
+UZ,Uzbekistan,7,51.57,3.48
+ZM,Zambia,7,51.29,2.76
+GF,French Guiana,6,134.83,11.00
+LU,Luxembourg,6,78.17,19.58
+BT,Bhutan,5,37.40,5.49
+CU,Cuba,5,25.20,0.96
+GA,Gabon,5,40.00,3.77
+GY,Guyana,5,28.20,1.93
+IS,Iceland,5,8.80,2.51
+ME,Montenegro,5,23.60,4.47
+PF,French Polynesia,5,33.00,5.05
+PY,Paraguay,5,19.60,2.15
+BN,Brunei,4,192.50,4.60
+FJ,Fiji,4,21.00,1.45
+GT,Guatemala,4,30.25,2.50
+JO,Jordan,4,65.75,3.70
+KG,Kyrgyzstan,4,62.00,5.67
+MC,Monaco,4,71.00,5.15
+MK,North Macedonia,4,53.25,9.40
+SD,Sudan,4,182.00,7.09
+UA,Ukraine,4,21.25,8.50
+AL,Albania,3,32.67,5.66
+DO,Dominican Rep.,3,22.00,3.26
+GP,Guadeloupe,3,25.67,1.58
+MM,Myanmar,3,67.67,3.94
+MR,Mauritania,3,19.00,2.34
+MT,Malta,3,37.67,19.57
+NE,Niger,3,17.67,3.11
+SZ,Eswatini,3,27.67,2.19
+TT,Trinidad & Tobago,3,11.67,1.44
+AF,Afghanistan,2,2.50,1.04
+AZ,Azerbaijan,2,63.00,14.97
+BI,Burundi,2,31.50,1.54
+CG,Congo,2,303.00,3.07
+GE,Georgia,2,38.50,4.70
+JM,Jamaica,2,12.50,0.83
+KZ,Kazakhstan,2,95.00,8.18
+LR,Liberia,2,9.50,1.81
+LS,Lesotho,2,11.50,1.17
+LY,Libya,2,27.50,2.22
+MD,Moldova,2,23.50,21.52
+MU,Mauritius,2,35.50,3.03
+PG,Papua New Guinea,2,307.50,2.80
+BH,Bahrain,1,70.00,16.70
+BS,Bahamas,1,84.00,6.52
+BY,Belarus,1,20.00,0.59
+GL,Greenland,1,4.00,1.94
+GM,Gambia,1,8.00,0.69
+GU,Guam,1,10.00,2.66
+HN,Honduras,1,8.00,1.36
+HT,Haiti,1,10.00,0.72
+KY,Cayman Islands,1,100.00,6.98
+MV,Maldives,1,23.00,3.37
+NI,Nicaragua,1,7.00,2.96
+PS,Palestine,1,79.00,6.03
+SC,Seychelles,1,223.00,31.43
+SL,Sierra Leone,1,87.00,6.55
+SV,El Salvador,1,8.00,1.64
+SY,Syria,1,30.00,3.07
+WS,Samoa,1,44.00,8.52
+XK,Kosovo,1,46.00,4.60
+YE,Yemen,1,24.00,4.28

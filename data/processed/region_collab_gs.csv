@@ -1,0 +1,33 @@
+region,countries_bin,gs_author,count,fwci
+China,0-1,True,2025,3.18
+China,0-1,False,197,2.49
+China,2,True,489,4.34
+China,2,False,21,8.56
+China,3-4,True,119,4.05
+China,3-4,False,6,7.97
+China,5+,True,15,14.12
+China,5+,False,3,2.16
+South & Southeast Asia,0-1,True,302,2.72
+South & Southeast Asia,0-1,False,181,6.02
+South & Southeast Asia,2,True,204,4.13
+South & Southeast Asia,2,False,28,7.11
+South & Southeast Asia,3-4,True,137,4.19
+South & Southeast Asia,3-4,False,11,5.29
+South & Southeast Asia,5+,True,34,6.78
+South & Southeast Asia,5+,False,5,6.97
+Sub-Saharan Africa,0-1,True,233,2.32
+Sub-Saharan Africa,0-1,False,249,4.76
+Sub-Saharan Africa,2,True,230,3.50
+Sub-Saharan Africa,2,False,46,4.51
+Sub-Saharan Africa,3-4,True,176,3.86
+Sub-Saharan Africa,3-4,False,25,6.55
+Sub-Saharan Africa,5+,True,57,4.90
+Sub-Saharan Africa,5+,False,8,14.50
+Latin America & Caribbean,0-1,True,362,2.54
+Latin America & Caribbean,0-1,False,376,4.59
+Latin America & Caribbean,2,True,282,3.27
+Latin America & Caribbean,2,False,101,5.17
+Latin America & Caribbean,3-4,True,171,4.79
+Latin America & Caribbean,3-4,False,36,5.03
+Latin America & Caribbean,5+,True,46,7.77
+Latin America & Caribbean,5+,False,6,5.24

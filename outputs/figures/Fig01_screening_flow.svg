@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="405pt" height="324.864pt" viewBox="0 0 405 324.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-28T23:24:23.246754</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324.864 
+L 405 324.864 
+L 405 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 43.1352 70.534656 
+L 221.2488 70.534656 
+Q 227.4984 70.534656 227.4984 65.567232 
+L 227.4984 20.239488 
+Q 227.4984 15.272064 221.2488 15.272064 
+L 43.1352 15.272064 
+Q 36.8856 15.272064 36.8856 20.239488 
+L 36.8856 65.567232 
+Q 36.8856 70.534656 43.1352 70.534656 
+z
+" clip-path="url(#peacc459982)" style="fill: #eaf2fc; stroke: #2a78d6; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 254.0592 70.534656 
+L 385.3008 70.534656 
+Q 391.5504 70.534656 391.5504 65.567232 
+L 391.5504 20.239488 
+Q 391.5504 15.272064 385.3008 15.272064 
+L 254.0592 15.272064 
+Q 247.8096 15.272064 247.8096 20.239488 
+L 247.8096 65.567232 
+Q 247.8096 70.534656 254.0592 70.534656 
+z
+" clip-path="url(#peacc459982)" style="fill: #fdf0ea; stroke: #eb6834; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 43.1352 154.359936 
+L 221.2488 154.359936 
+Q 227.4984 154.359936 227.4984 149.392512 
+L 227.4984 91.646208 
+Q 227.4984 86.678784 221.2488 86.678784 
+L 43.1352 86.678784 
+Q 36.8856 86.678784 36.8856 91.646208 
+L 36.8856 149.392512 
+Q 36.8856 154.359936 43.1352 154.359936 
+z
+" clip-path="url(#peacc459982)" style="fill: #f6f5f2; stroke: #8a8984; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 254.0592 154.359936 
+L 385.3008 154.359936 
+Q 391.5504 154.359936 391.5504 149.392512 
+L 391.5504 91.646208 
+Q 391.5504 86.678784 385.3008 86.678784 
+L 254.0592 86.678784 
+Q 247.8096 86.678784 247.8096 91.646208 
+L 247.8096 149.392512 
+Q 247.8096 154.359936 254.0592 154.359936 
+z
+" clip-path="url(#peacc459982)" style="fill: #fbeaea; stroke: #e34948; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 43.1352 235.080576 
+L 221.2488 235.080576 
+Q 227.4984 235.080576 227.4984 230.113152 
+L 227.4984 172.366848 
+Q 227.4984 167.399424 221.2488 167.399424 
+L 43.1352 167.399424 
+Q 36.8856 167.399424 36.8856 172.366848 
+L 36.8856 230.113152 
+Q 36.8856 235.080576 43.1352 235.080576 
+z
+" clip-path="url(#peacc459982)" style="fill: #f6f5f2; stroke: #8a8984; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 254.0592 235.080576 
+L 385.3008 235.080576 
+Q 391.5504 235.080576 391.5504 230.113152 
+L 391.5504 172.366848 
+Q 391.5504 167.399424 385.3008 167.399424 
+L 254.0592 167.399424 
+Q 247.8096 167.399424 247.8096 172.366848 
+L 247.8096 230.113152 
+Q 247.8096 235.080576 254.0592 235.080576 
+z
+" clip-path="url(#peacc459982)" style="fill: #fbeaea; stroke: #e34948; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 43.1352 309.591936 
+L 221.2488 309.591936 
+Q 227.4984 309.591936 227.4984 304.624512 
+L 227.4984 253.087488 
+Q 227.4984 248.120064 221.2488 248.120064 
+L 43.1352 248.120064 
+Q 36.8856 248.120064 36.8856 253.087488 
+L 36.8856 304.624512 
+Q 36.8856 309.591936 43.1352 309.591936 
+z
+" clip-path="url(#peacc459982)" style="fill: #e8f6ef; stroke: #1baf7a; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 254.0592 309.591936 
+L 385.3008 309.591936 
+Q 391.5504 309.591936 391.5504 304.624512 
+L 391.5504 253.087488 
+Q 391.5504 248.120064 385.3008 248.120064 
+L 254.0592 248.120064 
+Q 247.8096 248.120064 247.8096 253.087488 
+L 247.8096 304.624512 
+Q 247.8096 309.591936 254.0592 309.591936 
+z
+" clip-path="url(#peacc459982)" style="fill: #f1eefb; stroke: #6250d6; stroke-width: 1.1; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans'; fill: #2a78d6" transform="translate(16.566205 67.965736) rotate(-90)">IDENTIFICATION</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans'; fill: #2a78d6" transform="translate(16.566205 131.948628) rotate(-90)">SCREENING</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans'; fill: #2a78d6" transform="translate(16.566205 215.144611) rotate(-90)">ELIGIBILITY</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Liberation Sans'; fill: #2a78d6" transform="translate(16.566205 299.782929) rotate(-90)">INCLUDED</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="132.192" y="29.386755" transform="rotate(-0 132.192 29.386755)">OpenAlex OQL retrieval (1990–2025)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(56.317055 44.758478)">ES × spatial modelling × climate/environmental</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(54.857625 54.007164)">change × Global South (affiliation or study area)</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(72.148359 63.257562)">n = 9,632 records (articles + reviews)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="319.68" y="29.386755" transform="rotate(-0 319.68 29.386755)">Cross-validation sources</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(260.242031 44.758478)">Google Scholar &amp; Dimensions: recall</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(271.798844 54.007164)">benchmarking of seed set; no</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(273.021594 63.257562)">records harvested (see §3.1)</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 132.192 71.28929 
+Q 132.192 78.604079 132.192 84.800835 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 133.892 81.400835 
+L 132.192 84.800835 
+L 130.492 81.400835 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="132.192" y="100.793475" transform="rotate(-0 132.192 100.793475)">Automated screening</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(93.951406 116.166909)">Retracted (−4) → 9,628</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(76.203852 125.413884)">Non-journal: repositories/preprints,</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(66.965359 134.664282)">conference, book series (−587) → 9,041</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(85.833578 143.911257)">Non-English (−249) → 8,792</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="319.68" y="100.793475" transform="rotate(-0 319.68 100.793475)">Excluded records</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(300.812922 116.886643)">Retracted 4</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(293.70968 125.413884)">Non-journal 587</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(292.695094 134.662571)">Non-English 249</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(310.320602 144.53632)">Σ 840</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 227.935727 122.07168 
+Q 237.652963 122.07168 246.252166 122.07168 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 242.852166 120.37168 
+L 246.252166 122.07168 
+L 242.852166 123.77168 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 132.192 155.116086 
+Q 132.192 159.325267 132.192 162.416415 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 133.892 159.016415 
+L 132.192 162.416415 
+L 130.492 159.016415 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="132.192" y="181.514115" transform="rotate(-0 132.192 181.514115)">Source-quality screening</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(62.004211 197.607283)">No CWTS-core indexation and not in DOAJ</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(67.377125 206.134524)">(untracked peer review) (−706) → 8,086</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(71.737164 215.383211)">Stop Predatory Journals publisher list</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(70.484758 224.631897)">matches, 12 publishers (−75) → 8,011</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="319.68" y="181.514115" transform="rotate(-0 319.68 181.514115)">Excluded sources</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(276.06307 196.885838)">Untracked peer review 706</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(289.047375 206.134524)">Predatory-listed 75</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(280.803508 215.383211)">Off-domain primary field</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(271.809109 224.631897)">(medicine, nursing, arts…) 39</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 227.935727 202.79232 
+Q 237.652963 202.79232 246.252166 202.79232 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 242.852166 201.09232 
+L 246.252166 202.79232 
+L 242.852166 204.49232 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 132.192 235.840894 
+Q 132.192 240.824446 132.192 244.689964 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 133.892 241.289964 
+L 132.192 244.689964 
+L 130.492 241.289964 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="132.192" y="262.234755" transform="rotate(-0 132.192 262.234755)">Final analytical corpus</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(68.184117 277.606478)">n = 7,972 peer-reviewed journal articles</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(53.473477 286.855164)">1,143 journals · 168 countries · 5,150 institutions</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(64.733727 296.105562)">Precision (random audit, n = 25): 72–80%</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.3px; font-family: 'Liberation Sans'; text-anchor: middle; fill: #0b0b0b" x="319.68" y="262.234755" transform="rotate(-0 319.68 262.234755)">Analyses</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(257.606617 277.606478)">Growth &amp; decadal dynamics · subjects</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(262.674984 286.855164)">themes &amp; concepts · ES categories</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(266.935219 296.103851)">models · geography · institutions</text>
+    <text style="font-size: 7.3px; font-family: 'Liberation Sans'; fill: #52514e" transform="translate(272.208328 305.352537)">collaboration network · equity</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 227.935727 280.40832 
+Q 237.652963 280.40832 246.252166 280.40832 
+" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 242.852166 278.70832 
+L 246.252166 280.40832 
+L 242.852166 282.10832 
+z
+" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="text_21">
+    <text style="font-style: italic; font-size: 7px; font-family: 'Liberation Sans'; text-anchor: start; fill: #e34948" x="140.004" y="241.289856" transform="rotate(-0 140.004 241.289856)">Topical filter (−39) → 7,972</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="peacc459982">
+   <rect x="7.2" y="7.2" width="390.6" height="310.464"/>
+  </clipPath>
+ </defs>
+</svg>

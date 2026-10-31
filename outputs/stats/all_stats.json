@@ -1,0 +1,967 @@
+{
+ "fig01_screening_flow": {},
+ "fig02_growth": {
+  "exp_growth_rate": 0.2457474898597516,
+  "exp_r2": 0.9875806938061138,
+  "doubling_time": 3.1544580340942883,
+  "decades": [
+   {
+    "period": "1990s",
+    "years": "1990\u20131999",
+    "n": 16,
+    "share": 0.2007024586051179,
+    "annual_mean": 1.6,
+    "cagr": 8.00597388923061,
+    "mean_cit": 368.375625,
+    "fwci": 10.19875,
+    "pct_oa": 12.493749999999999
+   },
+   {
+    "period": "2000s",
+    "years": "2000\u20132009",
+    "n": 237,
+    "share": 2.972905168088309,
+    "annual_mean": 23.7,
+    "cagr": 25.99210498948732,
+    "mean_cit": 102.8297046413502,
+    "fwci": 4.904092827004219,
+    "pct_oa": 31.22278481012658
+   },
+   {
+    "period": "2010s",
+    "years": "2010\u20132019",
+    "n": 2087,
+    "share": 26.179126944305068,
+    "annual_mean": 208.7,
+    "cagr": 22.500473962968016,
+    "mean_cit": 90.93125059894585,
+    "fwci": 5.231327264015333,
+    "pct_oa": 54.39760421657881
+   },
+   {
+    "period": "2020\u201325",
+    "years": "2020\u20132025",
+    "n": 5632,
+    "share": 70.64726542900151,
+    "annual_mean": 938.6666666666666,
+    "cagr": 20.536504942501278,
+    "mean_cit": 25.280726207386362,
+    "fwci": 3.0996963778409086,
+    "pct_oa": 71.53419744318181
+   }
+  ]
+ },
+ "fig03_subject_areas": {
+  "subfield_share_by_decade": {
+   "Global and Planetary Change": {
+    "1990s": 43.8,
+    "2000s": 61.6,
+    "2010s": 58.0,
+    "2020\u201325": 61.7
+   },
+   "Ecology": {
+    "1990s": 0.0,
+    "2000s": 7.6,
+    "2010s": 10.3,
+    "2020\u201325": 8.8
+   },
+   "Management, Monitoring, Policy and Law": {
+    "1990s": 6.2,
+    "2000s": 6.8,
+    "2010s": 2.9,
+    "2020\u201325": 2.8
+   },
+   "Soil Science": {
+    "1990s": 6.2,
+    "2000s": 0.8,
+    "2010s": 3.2,
+    "2020\u201325": 2.9
+   },
+   "Water Science and Technology": {
+    "1990s": 0.0,
+    "2000s": 3.0,
+    "2010s": 3.5,
+    "2020\u201325": 2.6
+   },
+   "Nature and Landscape Conservation": {
+    "1990s": 0.0,
+    "2000s": 4.2,
+    "2010s": 2.8,
+    "2020\u201325": 2.4
+   },
+   "Environmental Engineering": {
+    "1990s": 0.0,
+    "2000s": 0.4,
+    "2010s": 2.3,
+    "2020\u201325": 2.6
+   },
+   "Other subfields": {
+    "1990s": 43.8,
+    "2000s": 15.6,
+    "2010s": 17.1,
+    "2020\u201325": 16.0
+   }
+  },
+  "subfield_totals": {
+   "Global and Planetary Change": 4840,
+   "Ecology": 730,
+   "Management, Monitoring, Policy and Law": 237,
+   "Soil Science": 233,
+   "Water Science and Technology": 226,
+   "Nature and Landscape Conservation": 204,
+   "Environmental Engineering": 198,
+   "Ecology, Evolution, Behavior and Systematics": 144,
+   "Ecological Modeling": 109,
+   "Oceanography": 104,
+   "Ocean Engineering": 97,
+   "Atmospheric Science": 71,
+   "Health, Toxicology and Mutagenesis": 64,
+   "Plant Science": 63,
+   "Environmental Chemistry": 62
+  }
+ },
+ "fig04_top20_themes": {
+  "topic_cagr": {
+   "Land Use and Ecosystem Services": 27.5,
+   "Conservation, Biodiversity, and Resource Management": 5.8,
+   "Coastal wetland ecosystem dynamics": 17.6,
+   "Remote Sensing in Agriculture": 15.0,
+   "Hydrology and Watershed Management Studies": 12.1,
+   "Ecology and Vegetation Dynamics Studies": 22.3,
+   "Environmental Changes in China": 17.8,
+   "Soil erosion and sediment transport": 19.8,
+   "Species Distribution and Climate Change": 35.0,
+   "Soil Carbon and Nitrogen Dynamics": 15.5,
+   "Urban Arborization and Environmental Studies": 55.4,
+   "Wetland Management and Conservation": 20.1,
+   "Marine and coastal plant biology": 23.5,
+   "Urban Heat Island Mitigation": 22.8,
+   "Remote-Sensing Image Classification": 37.8,
+   "Plant and animal studies": 11.4,
+   "Urban Green Space and Health": 35.5,
+   "Forest Management and Policy": 9.9,
+   "Plant Water Relations and Carbon Dynamics": 11.6,
+   "Coastal and Marine Management": 8.3
+  },
+  "topic_tot": {
+   "Land Use and Ecosystem Services": 3867,
+   "Conservation, Biodiversity, and Resource Management": 557,
+   "Coastal wetland ecosystem dynamics": 267,
+   "Remote Sensing in Agriculture": 146,
+   "Hydrology and Watershed Management Studies": 142,
+   "Ecology and Vegetation Dynamics Studies": 125,
+   "Environmental Changes in China": 115,
+   "Soil erosion and sediment transport": 112,
+   "Species Distribution and Climate Change": 109,
+   "Soil Carbon and Nitrogen Dynamics": 93,
+   "Urban Arborization and Environmental Studies": 63,
+   "Wetland Management and Conservation": 63,
+   "Marine and coastal plant biology": 58,
+   "Urban Heat Island Mitigation": 58,
+   "Remote-Sensing Image Classification": 55,
+   "Plant and animal studies": 52,
+   "Urban Green Space and Health": 52,
+   "Forest Management and Policy": 48,
+   "Plant Water Relations and Carbon Dynamics": 47,
+   "Coastal and Marine Management": 46
+  }
+ },
+ "fig05_concepts": {
+  "kw_share": {
+   "1990s": {
+    "biodiversity-conservation": 0.0,
+    "carbon-sequestration": 0.0,
+    "carbon-storage": 6.25,
+    "climate-change-adaptation": 6.25,
+    "climate-change-impacts": 0.0,
+    "cropland-expansion": 0.0,
+    "cultural-ecosystem-services": 0.0,
+    "deforestation": 25.0,
+    "drought": 0.0,
+    "ecological-corridors": 0.0,
+    "ecological-restoration": 0.0,
+    "ecological-security": 0.0,
+    "ecosystem-service-trade-offs": 0.0,
+    "ecosystem-service-value": 0.0,
+    "food-security": 6.25,
+    "habitat-quality": 0.0,
+    "invest-model": 0.0,
+    "land-degradation": 6.25,
+    "land-use-change": 25.0,
+    "nature-based-solutions": 6.25,
+    "normalized-difference-vegetation-index": 0.0,
+    "protected-areas": 6.25,
+    "scenario-based-simulation": 0.0,
+    "soil-conservation": 0.0,
+    "urban-expansion": 12.5,
+    "urban-green-space": 0.0,
+    "urbanization": 12.5,
+    "water-yield": 0.0
+   },
+   "2000s": {
+    "biodiversity-conservation": 8.86,
+    "carbon-sequestration": 4.64,
+    "carbon-storage": 1.27,
+    "climate-change-adaptation": 2.53,
+    "climate-change-impacts": 2.11,
+    "cropland-expansion": 5.06,
+    "cultural-ecosystem-services": 0.42,
+    "deforestation": 12.66,
+    "drought": 0.84,
+    "ecological-corridors": 1.69,
+    "ecological-restoration": 0.42,
+    "ecological-security": 1.27,
+    "ecosystem-service-trade-offs": 0.84,
+    "ecosystem-service-value": 6.33,
+    "food-security": 1.69,
+    "habitat-quality": 0.84,
+    "invest-model": 0.0,
+    "land-degradation": 0.84,
+    "land-use-change": 32.07,
+    "nature-based-solutions": 0.0,
+    "normalized-difference-vegetation-index": 0.0,
+    "protected-areas": 5.06,
+    "scenario-based-simulation": 0.0,
+    "soil-conservation": 1.69,
+    "urban-expansion": 0.84,
+    "urban-green-space": 0.42,
+    "urbanization": 5.06,
+    "water-yield": 1.27
+   },
+   "2010s": {
+    "biodiversity-conservation": 5.75,
+    "carbon-sequestration": 5.7,
+    "carbon-storage": 3.4,
+    "climate-change-adaptation": 4.22,
+    "climate-change-impacts": 6.85,
+    "cropland-expansion": 2.78,
+    "cultural-ecosystem-services": 2.06,
+    "deforestation": 9.15,
+    "drought": 2.44,
+    "ecological-corridors": 0.86,
+    "ecological-restoration": 3.83,
+    "ecological-security": 0.86,
+    "ecosystem-service-trade-offs": 2.68,
+    "ecosystem-service-value": 6.37,
+    "food-security": 2.97,
+    "habitat-quality": 1.29,
+    "invest-model": 2.35,
+    "land-degradation": 2.11,
+    "land-use-change": 26.4,
+    "nature-based-solutions": 0.67,
+    "normalized-difference-vegetation-index": 1.77,
+    "protected-areas": 4.5,
+    "scenario-based-simulation": 0.53,
+    "soil-conservation": 2.59,
+    "urban-expansion": 3.35,
+    "urban-green-space": 1.39,
+    "urbanization": 11.74,
+    "water-yield": 3.88
+   },
+   "2020\u201325": {
+    "biodiversity-conservation": 4.3,
+    "carbon-sequestration": 8.36,
+    "carbon-storage": 7.44,
+    "climate-change-adaptation": 3.53,
+    "climate-change-impacts": 8.17,
+    "cropland-expansion": 3.04,
+    "cultural-ecosystem-services": 2.49,
+    "deforestation": 4.37,
+    "drought": 1.7,
+    "ecological-corridors": 2.59,
+    "ecological-restoration": 7.21,
+    "ecological-security": 2.56,
+    "ecosystem-service-trade-offs": 3.36,
+    "ecosystem-service-value": 10.55,
+    "food-security": 2.31,
+    "habitat-quality": 8.26,
+    "invest-model": 5.84,
+    "land-degradation": 2.02,
+    "land-use-change": 25.32,
+    "nature-based-solutions": 2.25,
+    "normalized-difference-vegetation-index": 3.75,
+    "protected-areas": 2.75,
+    "scenario-based-simulation": 2.31,
+    "soil-conservation": 5.81,
+    "urban-expansion": 5.47,
+    "urban-green-space": 2.06,
+    "urbanization": 17.06,
+    "water-yield": 8.82
+   }
+  },
+  "kw_emergence": {
+   "biodiversity-conservation": 0.75,
+   "carbon-sequestration": 1.47,
+   "carbon-storage": 2.18,
+   "climate-change-adaptation": 0.84,
+   "climate-change-impacts": 1.19,
+   "cropland-expansion": 1.09,
+   "cultural-ecosystem-services": 1.21,
+   "deforestation": 0.48,
+   "drought": 0.7,
+   "ecological-corridors": 2.98,
+   "ecological-restoration": 1.88,
+   "ecological-security": 2.94,
+   "ecosystem-service-trade-offs": 1.25,
+   "ecosystem-service-value": 1.65,
+   "food-security": 0.78,
+   "habitat-quality": 6.34,
+   "invest-model": 2.48,
+   "land-degradation": 0.96,
+   "land-use-change": 0.96,
+   "nature-based-solutions": 3.33,
+   "normalized-difference-vegetation-index": 2.11,
+   "protected-areas": 0.61,
+   "scenario-based-simulation": 4.32,
+   "soil-conservation": 2.24,
+   "urban-expansion": 1.63,
+   "urban-green-space": 1.48,
+   "urbanization": 1.45,
+   "water-yield": 2.27
+  }
+ },
+ "fig06_es_categories": {
+  "services": {
+   "Crop/food production": {
+    "n": 768,
+    "mean_cit": 57.8,
+    "fwci": 5.19,
+    "cagr": 20.068334531490617,
+    "share_2020s": 66.92708333333334,
+    "1990s": 3,
+    "2000s": 29,
+    "2010s": 222,
+    "2020\u201325": 514
+   },
+   "Water yield/provision": {
+    "n": 1209,
+    "mean_cit": 41.73,
+    "fwci": 3.4,
+    "cagr": 27.510497411319147,
+    "share_2020s": 76.84036393713814,
+    "1990s": 0,
+    "2000s": 23,
+    "2010s": 257,
+    "2020\u201325": 929
+   },
+   "Habitat quality/biodiversity": {
+    "n": 2452,
+    "mean_cit": 44.85,
+    "fwci": 4.2,
+    "cagr": 22.874642818804315,
+    "share_2020s": 70.96247960848288,
+    "1990s": 5,
+    "2000s": 85,
+    "2010s": 622,
+    "2020\u201325": 1740
+   },
+   "Nutrient cycling/retention": {
+    "n": 339,
+    "mean_cit": 54.59,
+    "fwci": 4.27,
+    "cagr": 22.73159534934579,
+    "share_2020s": 68.43657817109144,
+    "1990s": 1,
+    "2000s": 15,
+    "2010s": 91,
+    "2020\u201325": 232
+   },
+   "Soil conservation/erosion": {
+    "n": 999,
+    "mean_cit": 41.48,
+    "fwci": 3.75,
+    "cagr": 29.8415888196484,
+    "share_2020s": 78.77877877877879,
+    "1990s": 2,
+    "2000s": 19,
+    "2010s": 191,
+    "2020\u201325": 787
+   },
+   "Carbon storage/sequestration": {
+    "n": 1536,
+    "mean_cit": 45.37,
+    "fwci": 4.07,
+    "cagr": 26.20880517133046,
+    "share_2020s": 76.7578125,
+    "1990s": 1,
+    "2000s": 32,
+    "2010s": 324,
+    "2020\u201325": 1179
+   },
+   "Urban heat/cooling": {
+    "n": 112,
+    "mean_cit": 42.7,
+    "fwci": 3.78,
+    "cagr": 34.950371871954175,
+    "share_2020s": 79.46428571428571,
+    "1990s": 0,
+    "2000s": 2,
+    "2010s": 21,
+    "2020\u201325": 89
+   },
+   "Marine & coastal": {
+    "n": 1111,
+    "mean_cit": 43.43,
+    "fwci": 4.01,
+    "cagr": 19.675051813065302,
+    "share_2020s": 69.03690369036903,
+    "1990s": 4,
+    "2000s": 35,
+    "2010s": 305,
+    "2020\u201325": 767
+   },
+   "Flood/hazard regulation": {
+    "n": 238,
+    "mean_cit": 53.03,
+    "fwci": 3.78,
+    "cagr": 19.67784668577881,
+    "share_2020s": 70.16806722689076,
+    "1990s": 0,
+    "2000s": 8,
+    "2010s": 63,
+    "2020\u201325": 167
+   },
+   "Pollination": {
+    "n": 156,
+    "mean_cit": 49.55,
+    "fwci": 4.3,
+    "cagr": 15.498220709471756,
+    "share_2020s": 60.89743589743589,
+    "1990s": 0,
+    "2000s": 11,
+    "2010s": 50,
+    "2020\u201325": 95
+   },
+   "Cultural/recreation": {
+    "n": 546,
+    "mean_cit": 39.02,
+    "fwci": 3.42,
+    "cagr": 21.948955751569386,
+    "share_2020s": 68.4981684981685,
+    "1990s": 1,
+    "2000s": 16,
+    "2010s": 155,
+    "2020\u201325": 374
+   },
+   "Air purification": {
+    "n": 133,
+    "mean_cit": 68.75,
+    "fwci": 3.73,
+    "cagr": 19.698993053178814,
+    "share_2020s": 67.66917293233082,
+    "1990s": 2,
+    "2000s": 3,
+    "2010s": 38,
+    "2020\u201325": 90
+   }
+  }
+ },
+ "fig07_es_country_activity_index": {
+  "activity_index": {
+   "CN": {
+    "Crop/food production": 1.19,
+    "Water yield/provision": 1.52,
+    "Habitat quality/biodiversity": 0.82,
+    "Nutrient cycling/retention": 1.16,
+    "Soil conservation/erosion": 1.51,
+    "Carbon storage/sequestration": 1.22,
+    "Urban heat/cooling": 0.99,
+    "Marine & coastal": 0.63
+   },
+   "BR": {
+    "Crop/food production": 0.7,
+    "Water yield/provision": 0.41,
+    "Habitat quality/biodiversity": 1.42,
+    "Nutrient cycling/retention": 0.69,
+    "Soil conservation/erosion": 0.52,
+    "Carbon storage/sequestration": 0.75,
+    "Urban heat/cooling": 0.25,
+    "Marine & coastal": 1.14
+   },
+   "IN": {
+    "Crop/food production": 0.78,
+    "Water yield/provision": 0.34,
+    "Habitat quality/biodiversity": 1.13,
+    "Nutrient cycling/retention": 1.15,
+    "Soil conservation/erosion": 0.43,
+    "Carbon storage/sequestration": 0.86,
+    "Urban heat/cooling": 2.43,
+    "Marine & coastal": 1.19
+   },
+   "ZA": {
+    "Crop/food production": 0.58,
+    "Water yield/provision": 0.37,
+    "Habitat quality/biodiversity": 1.38,
+    "Nutrient cycling/retention": 0.83,
+    "Soil conservation/erosion": 0.36,
+    "Carbon storage/sequestration": 0.75,
+    "Urban heat/cooling": 0.5,
+    "Marine & coastal": 1.16
+   },
+   "ET": {
+    "Crop/food production": 0.93,
+    "Water yield/provision": 0.94,
+    "Habitat quality/biodiversity": 0.96,
+    "Nutrient cycling/retention": 0.62,
+    "Soil conservation/erosion": 1.18,
+    "Carbon storage/sequestration": 0.46,
+    "Urban heat/cooling": 0.75,
+    "Marine & coastal": 0.11
+   },
+   "KE": {
+    "Crop/food production": 1.62,
+    "Water yield/provision": 0.37,
+    "Habitat quality/biodiversity": 1.31,
+    "Nutrient cycling/retention": 0.66,
+    "Soil conservation/erosion": 0.76,
+    "Carbon storage/sequestration": 0.75,
+    "Urban heat/cooling": 0.0,
+    "Marine & coastal": 0.64
+   },
+   "MX": {
+    "Crop/food production": 0.56,
+    "Water yield/provision": 0.18,
+    "Habitat quality/biodiversity": 1.13,
+    "Nutrient cycling/retention": 0.51,
+    "Soil conservation/erosion": 0.17,
+    "Carbon storage/sequestration": 0.68,
+    "Urban heat/cooling": 0.77,
+    "Marine & coastal": 1.87
+   },
+   "ID": {
+    "Crop/food production": 0.62,
+    "Water yield/provision": 0.57,
+    "Habitat quality/biodiversity": 0.93,
+    "Nutrient cycling/retention": 0.47,
+    "Soil conservation/erosion": 0.48,
+    "Carbon storage/sequestration": 1.34,
+    "Urban heat/cooling": 1.41,
+    "Marine & coastal": 1.38
+   },
+   "US": {
+    "Crop/food production": 0.94,
+    "Water yield/provision": 0.65,
+    "Habitat quality/biodiversity": 1.15,
+    "Nutrient cycling/retention": 1.19,
+    "Soil conservation/erosion": 0.65,
+    "Carbon storage/sequestration": 0.98,
+    "Urban heat/cooling": 0.72,
+    "Marine & coastal": 1.42
+   },
+   "GB": {
+    "Crop/food production": 0.88,
+    "Water yield/provision": 0.34,
+    "Habitat quality/biodiversity": 1.39,
+    "Nutrient cycling/retention": 0.76,
+    "Soil conservation/erosion": 0.3,
+    "Carbon storage/sequestration": 0.98,
+    "Urban heat/cooling": 0.55,
+    "Marine & coastal": 1.57
+   }
+  },
+  "service_share_country": {
+   "CN": {
+    "Crop/food production": 11.4,
+    "Water yield/provision": 23.1,
+    "Habitat quality/biodiversity": 25.2,
+    "Nutrient cycling/retention": 4.9,
+    "Soil conservation/erosion": 18.9,
+    "Carbon storage/sequestration": 23.5,
+    "Urban heat/cooling": 1.4,
+    "Marine & coastal": 8.7
+   },
+   "BR": {
+    "Crop/food production": 6.7,
+    "Water yield/provision": 6.2,
+    "Habitat quality/biodiversity": 43.7,
+    "Nutrient cycling/retention": 2.9,
+    "Soil conservation/erosion": 6.6,
+    "Carbon storage/sequestration": 14.5,
+    "Urban heat/cooling": 0.3,
+    "Marine & coastal": 15.9
+   },
+   "IN": {
+    "Crop/food production": 7.6,
+    "Water yield/provision": 5.1,
+    "Habitat quality/biodiversity": 34.9,
+    "Nutrient cycling/retention": 4.9,
+    "Soil conservation/erosion": 5.4,
+    "Carbon storage/sequestration": 16.6,
+    "Urban heat/cooling": 3.4,
+    "Marine & coastal": 16.6
+   },
+   "ZA": {
+    "Crop/food production": 5.6,
+    "Water yield/provision": 5.6,
+    "Habitat quality/biodiversity": 42.5,
+    "Nutrient cycling/retention": 3.5,
+    "Soil conservation/erosion": 4.6,
+    "Carbon storage/sequestration": 14.4,
+    "Urban heat/cooling": 0.7,
+    "Marine & coastal": 16.1
+   },
+   "ET": {
+    "Crop/food production": 8.9,
+    "Water yield/provision": 14.2,
+    "Habitat quality/biodiversity": 29.5,
+    "Nutrient cycling/retention": 2.6,
+    "Soil conservation/erosion": 14.7,
+    "Carbon storage/sequestration": 8.9,
+    "Urban heat/cooling": 1.1,
+    "Marine & coastal": 1.6
+   },
+   "KE": {
+    "Crop/food production": 15.6,
+    "Water yield/provision": 5.6,
+    "Habitat quality/biodiversity": 40.2,
+    "Nutrient cycling/retention": 2.8,
+    "Soil conservation/erosion": 9.5,
+    "Carbon storage/sequestration": 14.5,
+    "Urban heat/cooling": 0.0,
+    "Marine & coastal": 8.9
+   },
+   "MX": {
+    "Crop/food production": 5.4,
+    "Water yield/provision": 2.7,
+    "Habitat quality/biodiversity": 34.8,
+    "Nutrient cycling/retention": 2.2,
+    "Soil conservation/erosion": 2.2,
+    "Carbon storage/sequestration": 13.0,
+    "Urban heat/cooling": 1.1,
+    "Marine & coastal": 26.1
+   },
+   "ID": {
+    "Crop/food production": 6.0,
+    "Water yield/provision": 8.6,
+    "Habitat quality/biodiversity": 28.5,
+    "Nutrient cycling/retention": 2.0,
+    "Soil conservation/erosion": 6.0,
+    "Carbon storage/sequestration": 25.8,
+    "Urban heat/cooling": 2.0,
+    "Marine & coastal": 19.2
+   },
+   "US": {
+    "Crop/food production": 9.0,
+    "Water yield/provision": 9.9,
+    "Habitat quality/biodiversity": 35.3,
+    "Nutrient cycling/retention": 5.1,
+    "Soil conservation/erosion": 8.2,
+    "Carbon storage/sequestration": 19.0,
+    "Urban heat/cooling": 1.0,
+    "Marine & coastal": 19.7
+   },
+   "GB": {
+    "Crop/food production": 8.5,
+    "Water yield/provision": 5.1,
+    "Habitat quality/biodiversity": 42.8,
+    "Nutrient cycling/retention": 3.2,
+    "Soil conservation/erosion": 3.7,
+    "Carbon storage/sequestration": 18.9,
+    "Urban heat/cooling": 0.8,
+    "Marine & coastal": 21.9
+   }
+  }
+ },
+ "fig08_models_methods": {
+  "methods_tot": {
+   "(R)USLE": 83,
+   "ARIES / Co$ting Nature / SolVES": 106,
+   "Bayesian nets / system dynamics / ABM": 106,
+   "CASA / NPP light-use efficiency": 189,
+   "CA\u2013Markov / cellular automata": 228,
+   "Geodetector / (M)GWR": 291,
+   "Google Earth Engine": 139,
+   "InVEST suite": 994,
+   "Machine & deep learning": 540,
+   "MaxEnt / SDMs": 146,
+   "PLUS / FLUS / CLUE-S simulation": 402,
+   "Participatory / stakeholder mapping": 450,
+   "SSP\u2013RCP / CMIP scenarios": 322,
+   "SWAT": 86,
+   "Uncertainty, validation & field data": 736,
+   "Value-coefficient / benefit transfer (ESV)": 960
+  },
+  "methods_share_2025": {
+   "InVEST suite": 18.1,
+   "CASA / NPP light-use efficiency": 2.6,
+   "ARIES / Co$ting Nature / SolVES": 0.4,
+   "SWAT": 0.9,
+   "(R)USLE": 0.9,
+   "Value-coefficient / benefit transfer (ESV)": 12.2,
+   "PLUS / FLUS / CLUE-S simulation": 8.2,
+   "CA\u2013Markov / cellular automata": 3.1,
+   "SSP\u2013RCP / CMIP scenarios": 7.1,
+   "Machine & deep learning": 14.3,
+   "Geodetector / (M)GWR": 6.8,
+   "Google Earth Engine": 2.4,
+   "MaxEnt / SDMs": 3.0,
+   "Participatory / stakeholder mapping": 4.7,
+   "Bayesian nets / system dynamics / ABM": 1.6,
+   "Uncertainty, validation & field data": 9.6
+  },
+  "methods_share_2015": {
+   "InVEST suite": 3.1,
+   "CASA / NPP light-use efficiency": 2.1,
+   "ARIES / Co$ting Nature / SolVES": 0.5,
+   "SWAT": 1.6,
+   "(R)USLE": 0.5,
+   "Value-coefficient / benefit transfer (ESV)": 7.9,
+   "PLUS / FLUS / CLUE-S simulation": 1.0,
+   "CA\u2013Markov / cellular automata": 1.0,
+   "SSP\u2013RCP / CMIP scenarios": 2.6,
+   "Machine & deep learning": 0.5,
+   "Geodetector / (M)GWR": 0.5,
+   "Google Earth Engine": 0.0,
+   "MaxEnt / SDMs": 1.0,
+   "Participatory / stakeholder mapping": 8.4,
+   "Bayesian nets / system dynamics / ABM": 2.6,
+   "Uncertainty, validation & field data": 8.4
+  }
+ },
+ "fig09_geography": {
+  "gs_share_top20": 9
+ },
+ "fig10_study_regions": {
+  "regions": {
+   "China": {
+    "n": 2875,
+    "mean_cit": 39.91,
+    "fwci": 3.47,
+    "oa": 63.8
+   },
+   "South & Southeast Asia": {
+    "n": 902,
+    "mean_cit": 55.71,
+    "fwci": 4.27,
+    "oa": 61.1
+   },
+   "Sub-Saharan Africa": {
+    "n": 1024,
+    "mean_cit": 53.15,
+    "fwci": 3.88,
+    "oa": 71.9
+   },
+   "MENA & Central Asia": {
+    "n": 357,
+    "mean_cit": 29.81,
+    "fwci": 3.71,
+    "oa": 60.5
+   },
+   "Latin America & Caribbean": {
+    "n": 1380,
+    "mean_cit": 54.52,
+    "fwci": 3.97,
+    "oa": 66.6
+   },
+   "Pacific SIDS": {
+    "n": 32,
+    "mean_cit": 40.53,
+    "fwci": 2.33,
+    "oa": 62.5
+   }
+  },
+  "region_dec": {
+   "1990s": {
+    "China": 1,
+    "Latin America & Caribbean": 8,
+    "Sub-Saharan Africa": 2,
+    "South & Southeast Asia": 5,
+    "MENA & Central Asia": 1
+   },
+   "2000s": {
+    "China": 55,
+    "Latin America & Caribbean": 84,
+    "Sub-Saharan Africa": 43,
+    "South & Southeast Asia": 33,
+    "MENA & Central Asia": 5
+   },
+   "2010s": {
+    "China": 602,
+    "Latin America & Caribbean": 504,
+    "Sub-Saharan Africa": 366,
+    "South & Southeast Asia": 287,
+    "MENA & Central Asia": 77
+   },
+   "2020\u201325": {
+    "China": 2217,
+    "Latin America & Caribbean": 784,
+    "Sub-Saharan Africa": 613,
+    "South & Southeast Asia": 577,
+    "MENA & Central Asia": 274
+   }
+  },
+  "region_share_dec": {
+   "1990s": {
+    "China": 5.9,
+    "Latin America & Caribbean": 47.1,
+    "Sub-Saharan Africa": 11.8,
+    "South & Southeast Asia": 29.4,
+    "MENA & Central Asia": 5.9
+   },
+   "2000s": {
+    "China": 25.0,
+    "Latin America & Caribbean": 38.2,
+    "Sub-Saharan Africa": 19.5,
+    "South & Southeast Asia": 15.0,
+    "MENA & Central Asia": 2.3
+   },
+   "2010s": {
+    "China": 32.8,
+    "Latin America & Caribbean": 27.5,
+    "Sub-Saharan Africa": 19.9,
+    "South & Southeast Asia": 15.6,
+    "MENA & Central Asia": 4.2
+   },
+   "2020\u201325": {
+    "China": 49.7,
+    "Latin America & Caribbean": 17.6,
+    "Sub-Saharan Africa": 13.7,
+    "South & Southeast Asia": 12.9,
+    "MENA & Central Asia": 6.1
+   }
+  }
+ },
+ "fig11_institutions": {},
+ "fig12_collaboration_network": {
+  "network": {
+   "nodes": 30,
+   "edges": 303,
+   "density": 0.696551724137931,
+   "communities": [
+    [
+     "AU",
+     "BD",
+     "CA",
+     "CN",
+     "GH",
+     "IN",
+     "IR",
+     "JP",
+     "NG",
+     "US",
+     "VN"
+    ],
+    [
+     "AR",
+     "BR",
+     "CL",
+     "CO",
+     "ES",
+     "MX"
+    ],
+    [
+     "BE",
+     "CH",
+     "DE",
+     "ET",
+     "FR",
+     "GB",
+     "ID",
+     "IT",
+     "KE",
+     "NL",
+     "SE",
+     "TZ",
+     "ZA"
+    ]
+   ],
+   "top_strength": [
+    [
+     "US",
+     2058
+    ],
+    [
+     "GB",
+     1467
+    ],
+    [
+     "CN",
+     1345
+    ],
+    [
+     "DE",
+     1173
+    ],
+    [
+     "AU",
+     996
+    ],
+    [
+     "FR",
+     772
+    ],
+    [
+     "NL",
+     762
+    ],
+    [
+     "BR",
+     702
+    ],
+    [
+     "ES",
+     685
+    ],
+    [
+     "CA",
+     684
+    ]
+   ],
+   "top_betweenness": [
+    [
+     "US",
+     0.0400546850589935
+    ],
+    [
+     "GB",
+     0.0400546850589935
+    ],
+    [
+     "DE",
+     0.0400546850589935
+    ],
+    [
+     "AU",
+     0.0400546850589935
+    ],
+    [
+     "CN",
+     0.02995616289150581
+    ],
+    [
+     "NL",
+     0.025807089469033376
+    ],
+    [
+     "ZA",
+     0.018300335863322945
+    ],
+    [
+     "KE",
+     0.014800487648174817
+    ]
+   ],
+   "ss_edges": 56,
+   "ss_weight": 649,
+   "tot_weight": 8100
+  }
+ },
+ "fig13_equity_challenges": {
+  "parachute_pct": {
+   "Sub-Saharan Africa": 32.0,
+   "Latin America & Caribbean": 37.6,
+   "South & Southeast Asia": 24.9,
+   "China": 7.9
+  },
+  "funder_origin": {
+   "ZA": 71,
+   "INT": 72,
+   "GB": 132,
+   "DE": 149,
+   "EU": 184,
+   "US": 419,
+   "BR": 521,
+   "CN": 3232
+  }
+ }
+}

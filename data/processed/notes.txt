@@ -1,0 +1,6 @@
+note: keyword-tagged works = 7587 of 7972
+sources total groups 1143; funders groups 2211; authors groups 30853; institutions 5150; OA pct overall 65.73
+countries count bins overall: 0-1:4916 (FWCI 3.06); 2:1813 (4.15); 3-4:914 (4.55); 5+:329 (9.06)
+global south any author: true 6708 (FWCI 3.60); false 1264 (4.38)
+precision check (random n=25 of final corpus): strict relevant 18 (72%), +2 marginal (80%), 5 off-topic (insect seasonality; political theory; NbS bibliometric; Mediterranean seagrass; neotropical dung beetles)
+InVEST exact-match total 994 (FWCI 3.29); stemmed 'invest' would be 1106

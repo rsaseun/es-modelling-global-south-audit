@@ -1,0 +1,18 @@
+query,count,mean_citations,mean_fwci,pct_open_access,note
+InVEST,1106,37.2749,3.4298,69.1682,stemmed match
+"SWAT OR ""Soil and Water Assessment Tool""",86,34.8721,2.4029,59.3023,
+"ARIES OR ""Co$ting Nature"" OR ""Costing Nature"" OR SolVES",106,48.1321,7.6129,65.0943,
+"RUSLE OR USLE OR ""universal soil loss""",83,47.9518,3.4273,62.6506,
+"""equivalent factor*"" OR ""value coefficient*"" OR ""benefit transfer"" OR ""unit value*"" OR ""ecosystem service value*""",960,31.6073,2.735,66.5625,
+"""CA-Markov"" OR Markov OR ""cellular automat*""",228,30.8816,2.7781,66.6667,
+"""PLUS model"" OR FLUS OR ""CLUE-S"" OR ""CLUE model"" OR ""Dyna-CLUE"" OR ""land use simulation"" OR ""LUCC simulation""",402,29.8234,3.3631,79.3532,
+"""machine learning"" OR ""random forest"" OR ""deep learning"" OR ""neural network*"" OR XGBoost OR ""support vector""",540,33.7315,4.2408,68.3333,
+"""Google Earth Engine""",139,31.3237,3.4945,71.9424,
+"geodetector OR ""geographical detector"" OR ""geographically weighted regression"" OR MGWR",291,26.9897,3.2001,69.7595,
+"SSP* OR RCP* OR CMIP* OR ""shared socioeconomic pathway*"" OR ""representative concentration pathway*""",322,29.5093,4.3465,70.8075,
+"MaxEnt OR ""species distribution model*"" OR ""ecological niche model*""",146,21.7329,5.8856,63.6986,
+"CASA OR ""net primary productiv*"" OR ""light use efficiency""",189,39.1693,3.1461,68.254,
+"""participatory mapping"" OR PPGIS OR ""participatory GIS"" OR stakeholder* OR ""local knowledge""",450,39.4044,3.4864,65.7778,
+"""Bayesian network*"" OR ""system dynamics"" OR ""agent-based""",106,51.283,3.6128,58.4906,
+"""uncertainty analysis"" OR ""sensitivity analysis"" OR uncertaint* OR validation OR ""field data"" OR ""in situ""",736,46.3505,3.7745,66.4402,
+InVEST (exact phrase),994,,3.29,,"exact, case-insensitive phrase match; see notes.txt"

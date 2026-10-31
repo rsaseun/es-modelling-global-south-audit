@@ -1,0 +1,69 @@
+{
+ "subfield_share_by_decade": {
+  "Global and Planetary Change": {
+   "1990s": 43.8,
+   "2000s": 61.6,
+   "2010s": 58.0,
+   "2020\u201325": 61.7
+  },
+  "Ecology": {
+   "1990s": 0.0,
+   "2000s": 7.6,
+   "2010s": 10.3,
+   "2020\u201325": 8.8
+  },
+  "Management, Monitoring, Policy and Law": {
+   "1990s": 6.2,
+   "2000s": 6.8,
+   "2010s": 2.9,
+   "2020\u201325": 2.8
+  },
+  "Soil Science": {
+   "1990s": 6.2,
+   "2000s": 0.8,
+   "2010s": 3.2,
+   "2020\u201325": 2.9
+  },
+  "Water Science and Technology": {
+   "1990s": 0.0,
+   "2000s": 3.0,
+   "2010s": 3.5,
+   "2020\u201325": 2.6
+  },
+  "Nature and Landscape Conservation": {
+   "1990s": 0.0,
+   "2000s": 4.2,
+   "2010s": 2.8,
+   "2020\u201325": 2.4
+  },
+  "Environmental Engineering": {
+   "1990s": 0.0,
+   "2000s": 0.4,
+   "2010s": 2.3,
+   "2020\u201325": 2.6
+  },
+  "Other subfields": {
+   "1990s": 43.8,
+   "2000s": 15.6,
+   "2010s": 17.1,
+   "2020\u201325": 16.0
+  }
+ },
+ "subfield_totals": {
+  "Global and Planetary Change": 4840,
+  "Ecology": 730,
+  "Management, Monitoring, Policy and Law": 237,
+  "Soil Science": 233,
+  "Water Science and Technology": 226,
+  "Nature and Landscape Conservation": 204,
+  "Environmental Engineering": 198,
+  "Ecology, Evolution, Behavior and Systematics": 144,
+  "Ecological Modeling": 109,
+  "Oceanography": 104,
+  "Ocean Engineering": 97,
+  "Atmospheric Science": 71,
+  "Health, Toxicology and Mutagenesis": 64,
+  "Plant Science": 63,
+  "Environmental Chemistry": 62
+ }
+}

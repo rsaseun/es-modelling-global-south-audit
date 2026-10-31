@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# Regenerated outputs are committed so the article's figures and tables can be browsed on GitHub.
+# Uncomment the next line to keep only the code and data under version control.
+# outputs/

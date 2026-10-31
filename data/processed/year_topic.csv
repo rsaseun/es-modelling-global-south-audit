@@ -1,0 +1,749 @@
+level0,level1,count,id,mean FWCI
+1990,Land Use and Ecosystem Services,2,T10226,3.5852
+1990,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1990,Coastal wetland ecosystem dynamics,0,T10779,
+1990,Remote Sensing in Agriculture,0,T10111,
+1990,Hydrology and Watershed Management Studies,0,T10330,
+1990,Ecology and Vegetation Dynamics Studies,0,T10005,
+1990,Environmental Changes in China,0,T13203,
+1990,Soil erosion and sediment transport,0,T10889,
+1990,Species Distribution and Climate Change,0,T10895,
+1990,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1990,Urban Arborization and Environmental Studies,0,T13801,
+1990,Wetland Management and Conservation,0,T14359,
+1990,Marine and coastal plant biology,0,T10643,
+1990,Urban Heat Island Mitigation,0,T10766,
+1990,Remote-Sensing Image Classification,0,T10689,
+1990,Plant and animal studies,0,T10487,
+1990,Urban Green Space and Health,0,T10692,
+1990,Forest Management and Policy,0,T11753,
+1990,Plant Water Relations and Carbon Dynamics,0,T10266,
+1990,Coastal and Marine Management,0,T12414,
+1990,Climate change impacts on agriculture,0,T10439,
+1990,Coral and Marine Ecosystems Studies,0,T10341,
+1991,Land Use and Ecosystem Services,0,T10226,
+1991,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1991,Coastal wetland ecosystem dynamics,0,T10779,
+1991,Remote Sensing in Agriculture,0,T10111,
+1991,Hydrology and Watershed Management Studies,0,T10330,
+1991,Ecology and Vegetation Dynamics Studies,0,T10005,
+1991,Environmental Changes in China,0,T13203,
+1991,Soil erosion and sediment transport,0,T10889,
+1991,Species Distribution and Climate Change,0,T10895,
+1991,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1991,Urban Arborization and Environmental Studies,0,T13801,
+1991,Wetland Management and Conservation,0,T14359,
+1991,Marine and coastal plant biology,0,T10643,
+1991,Urban Heat Island Mitigation,0,T10766,
+1991,Remote-Sensing Image Classification,0,T10689,
+1991,Plant and animal studies,0,T10487,
+1991,Urban Green Space and Health,0,T10692,
+1991,Forest Management and Policy,0,T11753,
+1991,Plant Water Relations and Carbon Dynamics,0,T10266,
+1991,Coastal and Marine Management,0,T12414,
+1991,Climate change impacts on agriculture,0,T10439,
+1991,Coral and Marine Ecosystems Studies,0,T10341,
+1993,Land Use and Ecosystem Services,0,T10226,
+1993,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1993,Coastal wetland ecosystem dynamics,0,T10779,
+1993,Remote Sensing in Agriculture,0,T10111,
+1993,Hydrology and Watershed Management Studies,0,T10330,
+1993,Ecology and Vegetation Dynamics Studies,0,T10005,
+1993,Environmental Changes in China,0,T13203,
+1993,Soil erosion and sediment transport,0,T10889,
+1993,Species Distribution and Climate Change,0,T10895,
+1993,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1993,Urban Arborization and Environmental Studies,1,T13801,0
+1993,Wetland Management and Conservation,0,T14359,
+1993,Marine and coastal plant biology,0,T10643,
+1993,Urban Heat Island Mitigation,0,T10766,
+1993,Remote-Sensing Image Classification,0,T10689,
+1993,Plant and animal studies,1,T10487,0
+1993,Urban Green Space and Health,0,T10692,
+1993,Forest Management and Policy,0,T11753,
+1993,Plant Water Relations and Carbon Dynamics,0,T10266,
+1993,Coastal and Marine Management,0,T12414,
+1993,Climate change impacts on agriculture,0,T10439,
+1993,Coral and Marine Ecosystems Studies,0,T10341,
+1994,Land Use and Ecosystem Services,0,T10226,
+1994,"Conservation, Biodiversity, and Resource Management",1,T10319,0
+1994,Coastal wetland ecosystem dynamics,0,T10779,
+1994,Remote Sensing in Agriculture,0,T10111,
+1994,Hydrology and Watershed Management Studies,0,T10330,
+1994,Ecology and Vegetation Dynamics Studies,0,T10005,
+1994,Environmental Changes in China,0,T13203,
+1994,Soil erosion and sediment transport,0,T10889,
+1994,Species Distribution and Climate Change,0,T10895,
+1994,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1994,Urban Arborization and Environmental Studies,0,T13801,
+1994,Wetland Management and Conservation,0,T14359,
+1994,Marine and coastal plant biology,0,T10643,
+1994,Urban Heat Island Mitigation,0,T10766,
+1994,Remote-Sensing Image Classification,0,T10689,
+1994,Plant and animal studies,0,T10487,
+1994,Urban Green Space and Health,0,T10692,
+1994,Forest Management and Policy,0,T11753,
+1994,Plant Water Relations and Carbon Dynamics,0,T10266,
+1994,Coastal and Marine Management,0,T12414,
+1994,Climate change impacts on agriculture,0,T10439,
+1994,Coral and Marine Ecosystems Studies,0,T10341,
+1996,Land Use and Ecosystem Services,0,T10226,
+1996,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1996,Coastal wetland ecosystem dynamics,0,T10779,
+1996,Remote Sensing in Agriculture,0,T10111,
+1996,Hydrology and Watershed Management Studies,0,T10330,
+1996,Ecology and Vegetation Dynamics Studies,0,T10005,
+1996,Environmental Changes in China,0,T13203,
+1996,Soil erosion and sediment transport,0,T10889,
+1996,Species Distribution and Climate Change,0,T10895,
+1996,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1996,Urban Arborization and Environmental Studies,0,T13801,
+1996,Wetland Management and Conservation,0,T14359,
+1996,Marine and coastal plant biology,0,T10643,
+1996,Urban Heat Island Mitigation,0,T10766,
+1996,Remote-Sensing Image Classification,0,T10689,
+1996,Plant and animal studies,0,T10487,
+1996,Urban Green Space and Health,0,T10692,
+1996,Forest Management and Policy,0,T11753,
+1996,Plant Water Relations and Carbon Dynamics,0,T10266,
+1996,Coastal and Marine Management,0,T12414,
+1996,Climate change impacts on agriculture,0,T10439,
+1996,Coral and Marine Ecosystems Studies,0,T10341,
+1997,Land Use and Ecosystem Services,1,T10226,3.1396
+1997,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1997,Coastal wetland ecosystem dynamics,0,T10779,
+1997,Remote Sensing in Agriculture,0,T10111,
+1997,Hydrology and Watershed Management Studies,0,T10330,
+1997,Ecology and Vegetation Dynamics Studies,0,T10005,
+1997,Environmental Changes in China,0,T13203,
+1997,Soil erosion and sediment transport,0,T10889,
+1997,Species Distribution and Climate Change,0,T10895,
+1997,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1997,Urban Arborization and Environmental Studies,0,T13801,
+1997,Wetland Management and Conservation,0,T14359,
+1997,Marine and coastal plant biology,0,T10643,
+1997,Urban Heat Island Mitigation,0,T10766,
+1997,Remote-Sensing Image Classification,0,T10689,
+1997,Plant and animal studies,0,T10487,
+1997,Urban Green Space and Health,0,T10692,
+1997,Forest Management and Policy,0,T11753,
+1997,Plant Water Relations and Carbon Dynamics,0,T10266,
+1997,Coastal and Marine Management,0,T12414,
+1997,Climate change impacts on agriculture,0,T10439,
+1997,Coral and Marine Ecosystems Studies,0,T10341,
+1998,Land Use and Ecosystem Services,1,T10226,4.0248
+1998,"Conservation, Biodiversity, and Resource Management",0,T10319,
+1998,Coastal wetland ecosystem dynamics,0,T10779,
+1998,Remote Sensing in Agriculture,0,T10111,
+1998,Hydrology and Watershed Management Studies,0,T10330,
+1998,Ecology and Vegetation Dynamics Studies,0,T10005,
+1998,Environmental Changes in China,0,T13203,
+1998,Soil erosion and sediment transport,0,T10889,
+1998,Species Distribution and Climate Change,0,T10895,
+1998,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1998,Urban Arborization and Environmental Studies,0,T13801,
+1998,Wetland Management and Conservation,0,T14359,
+1998,Marine and coastal plant biology,0,T10643,
+1998,Urban Heat Island Mitigation,0,T10766,
+1998,Remote-Sensing Image Classification,0,T10689,
+1998,Plant and animal studies,0,T10487,
+1998,Urban Green Space and Health,0,T10692,
+1998,Forest Management and Policy,0,T11753,
+1998,Plant Water Relations and Carbon Dynamics,0,T10266,
+1998,Coastal and Marine Management,0,T12414,
+1998,Climate change impacts on agriculture,0,T10439,
+1998,Coral and Marine Ecosystems Studies,0,T10341,
+1999,Land Use and Ecosystem Services,0,T10226,
+1999,"Conservation, Biodiversity, and Resource Management",1,T10319,7.7024
+1999,Coastal wetland ecosystem dynamics,0,T10779,
+1999,Remote Sensing in Agriculture,0,T10111,
+1999,Hydrology and Watershed Management Studies,0,T10330,
+1999,Ecology and Vegetation Dynamics Studies,0,T10005,
+1999,Environmental Changes in China,0,T13203,
+1999,Soil erosion and sediment transport,1,T10889,0
+1999,Species Distribution and Climate Change,0,T10895,
+1999,Soil Carbon and Nitrogen Dynamics,0,T10004,
+1999,Urban Arborization and Environmental Studies,0,T13801,
+1999,Wetland Management and Conservation,0,T14359,
+1999,Marine and coastal plant biology,0,T10643,
+1999,Urban Heat Island Mitigation,0,T10766,
+1999,Remote-Sensing Image Classification,0,T10689,
+1999,Plant and animal studies,0,T10487,
+1999,Urban Green Space and Health,0,T10692,
+1999,Forest Management and Policy,0,T11753,
+1999,Plant Water Relations and Carbon Dynamics,0,T10266,
+1999,Coastal and Marine Management,0,T12414,
+1999,Climate change impacts on agriculture,0,T10439,
+1999,Coral and Marine Ecosystems Studies,0,T10341,
+2000,Land Use and Ecosystem Services,0,T10226,
+2000,"Conservation, Biodiversity, and Resource Management",1,T10319,8.8874
+2000,Coastal wetland ecosystem dynamics,0,T10779,
+2000,Remote Sensing in Agriculture,0,T10111,
+2000,Hydrology and Watershed Management Studies,0,T10330,
+2000,Ecology and Vegetation Dynamics Studies,0,T10005,
+2000,Environmental Changes in China,0,T13203,
+2000,Soil erosion and sediment transport,0,T10889,
+2000,Species Distribution and Climate Change,0,T10895,
+2000,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2000,Urban Arborization and Environmental Studies,0,T13801,
+2000,Wetland Management and Conservation,0,T14359,
+2000,Marine and coastal plant biology,0,T10643,
+2000,Urban Heat Island Mitigation,0,T10766,
+2000,Remote-Sensing Image Classification,0,T10689,
+2000,Plant and animal studies,0,T10487,
+2000,Urban Green Space and Health,0,T10692,
+2000,Forest Management and Policy,0,T11753,
+2000,Plant Water Relations and Carbon Dynamics,0,T10266,
+2000,Coastal and Marine Management,0,T12414,
+2000,Climate change impacts on agriculture,0,T10439,
+2000,Coral and Marine Ecosystems Studies,0,T10341,
+2001,Land Use and Ecosystem Services,2,T10226,1.5913
+2001,"Conservation, Biodiversity, and Resource Management",4,T10319,3.4836
+2001,Coastal wetland ecosystem dynamics,1,T10779,7.7321
+2001,Remote Sensing in Agriculture,0,T10111,
+2001,Hydrology and Watershed Management Studies,0,T10330,
+2001,Ecology and Vegetation Dynamics Studies,1,T10005,15.8925
+2001,Environmental Changes in China,0,T13203,
+2001,Soil erosion and sediment transport,0,T10889,
+2001,Species Distribution and Climate Change,0,T10895,
+2001,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2001,Urban Arborization and Environmental Studies,0,T13801,
+2001,Wetland Management and Conservation,0,T14359,
+2001,Marine and coastal plant biology,0,T10643,
+2001,Urban Heat Island Mitigation,0,T10766,
+2001,Remote-Sensing Image Classification,0,T10689,
+2001,Plant and animal studies,0,T10487,
+2001,Urban Green Space and Health,0,T10692,
+2001,Forest Management and Policy,0,T11753,
+2001,Plant Water Relations and Carbon Dynamics,0,T10266,
+2001,Coastal and Marine Management,0,T12414,
+2001,Climate change impacts on agriculture,0,T10439,
+2001,Coral and Marine Ecosystems Studies,0,T10341,
+2002,Land Use and Ecosystem Services,2,T10226,2.5551
+2002,"Conservation, Biodiversity, and Resource Management",0,T10319,
+2002,Coastal wetland ecosystem dynamics,1,T10779,2.0846
+2002,Remote Sensing in Agriculture,0,T10111,
+2002,Hydrology and Watershed Management Studies,0,T10330,
+2002,Ecology and Vegetation Dynamics Studies,1,T10005,3.9982
+2002,Environmental Changes in China,0,T13203,
+2002,Soil erosion and sediment transport,0,T10889,
+2002,Species Distribution and Climate Change,0,T10895,
+2002,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2002,Urban Arborization and Environmental Studies,0,T13801,
+2002,Wetland Management and Conservation,0,T14359,
+2002,Marine and coastal plant biology,0,T10643,
+2002,Urban Heat Island Mitigation,0,T10766,
+2002,Remote-Sensing Image Classification,0,T10689,
+2002,Plant and animal studies,0,T10487,
+2002,Urban Green Space and Health,0,T10692,
+2002,Forest Management and Policy,0,T11753,
+2002,Plant Water Relations and Carbon Dynamics,0,T10266,
+2002,Coastal and Marine Management,0,T12414,
+2002,Climate change impacts on agriculture,0,T10439,
+2002,Coral and Marine Ecosystems Studies,0,T10341,
+2003,Land Use and Ecosystem Services,3,T10226,5.3025
+2003,"Conservation, Biodiversity, and Resource Management",1,T10319,3.1126
+2003,Coastal wetland ecosystem dynamics,0,T10779,
+2003,Remote Sensing in Agriculture,0,T10111,
+2003,Hydrology and Watershed Management Studies,0,T10330,
+2003,Ecology and Vegetation Dynamics Studies,0,T10005,
+2003,Environmental Changes in China,0,T13203,
+2003,Soil erosion and sediment transport,0,T10889,
+2003,Species Distribution and Climate Change,0,T10895,
+2003,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2003,Urban Arborization and Environmental Studies,0,T13801,
+2003,Wetland Management and Conservation,0,T14359,
+2003,Marine and coastal plant biology,0,T10643,
+2003,Urban Heat Island Mitigation,0,T10766,
+2003,Remote-Sensing Image Classification,0,T10689,
+2003,Plant and animal studies,0,T10487,
+2003,Urban Green Space and Health,0,T10692,
+2003,Forest Management and Policy,0,T11753,
+2003,Plant Water Relations and Carbon Dynamics,0,T10266,
+2003,Coastal and Marine Management,0,T12414,
+2003,Climate change impacts on agriculture,0,T10439,
+2003,Coral and Marine Ecosystems Studies,0,T10341,
+2004,Land Use and Ecosystem Services,5,T10226,1.8886
+2004,"Conservation, Biodiversity, and Resource Management",5,T10319,4.9238
+2004,Coastal wetland ecosystem dynamics,0,T10779,
+2004,Remote Sensing in Agriculture,1,T10111,0
+2004,Hydrology and Watershed Management Studies,0,T10330,
+2004,Ecology and Vegetation Dynamics Studies,2,T10005,5.2895
+2004,Environmental Changes in China,1,T13203,0
+2004,Soil erosion and sediment transport,0,T10889,
+2004,Species Distribution and Climate Change,0,T10895,
+2004,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2004,Urban Arborization and Environmental Studies,0,T13801,
+2004,Wetland Management and Conservation,0,T14359,
+2004,Marine and coastal plant biology,0,T10643,
+2004,Urban Heat Island Mitigation,0,T10766,
+2004,Remote-Sensing Image Classification,0,T10689,
+2004,Plant and animal studies,0,T10487,
+2004,Urban Green Space and Health,0,T10692,
+2004,Forest Management and Policy,0,T11753,
+2004,Plant Water Relations and Carbon Dynamics,0,T10266,
+2004,Coastal and Marine Management,0,T12414,
+2004,Climate change impacts on agriculture,0,T10439,
+2004,Coral and Marine Ecosystems Studies,0,T10341,
+2005,Land Use and Ecosystem Services,5,T10226,12.1658
+2005,"Conservation, Biodiversity, and Resource Management",6,T10319,4.7994
+2005,Coastal wetland ecosystem dynamics,0,T10779,
+2005,Remote Sensing in Agriculture,0,T10111,
+2005,Hydrology and Watershed Management Studies,0,T10330,
+2005,Ecology and Vegetation Dynamics Studies,0,T10005,
+2005,Environmental Changes in China,2,T13203,1.0953
+2005,Soil erosion and sediment transport,0,T10889,
+2005,Species Distribution and Climate Change,0,T10895,
+2005,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2005,Urban Arborization and Environmental Studies,0,T13801,
+2005,Wetland Management and Conservation,1,T14359,0.9604
+2005,Marine and coastal plant biology,0,T10643,
+2005,Urban Heat Island Mitigation,0,T10766,
+2005,Remote-Sensing Image Classification,0,T10689,
+2005,Plant and animal studies,0,T10487,
+2005,Urban Green Space and Health,0,T10692,
+2005,Forest Management and Policy,0,T11753,
+2005,Plant Water Relations and Carbon Dynamics,0,T10266,
+2005,Coastal and Marine Management,0,T12414,
+2005,Climate change impacts on agriculture,0,T10439,
+2005,Coral and Marine Ecosystems Studies,0,T10341,
+2006,Land Use and Ecosystem Services,5,T10226,3.7073
+2006,"Conservation, Biodiversity, and Resource Management",6,T10319,11.5172
+2006,Coastal wetland ecosystem dynamics,0,T10779,
+2006,Remote Sensing in Agriculture,0,T10111,
+2006,Hydrology and Watershed Management Studies,0,T10330,
+2006,Ecology and Vegetation Dynamics Studies,3,T10005,3.8219
+2006,Environmental Changes in China,1,T13203,0
+2006,Soil erosion and sediment transport,0,T10889,
+2006,Species Distribution and Climate Change,0,T10895,
+2006,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2006,Urban Arborization and Environmental Studies,0,T13801,
+2006,Wetland Management and Conservation,0,T14359,
+2006,Marine and coastal plant biology,0,T10643,
+2006,Urban Heat Island Mitigation,0,T10766,
+2006,Remote-Sensing Image Classification,0,T10689,
+2006,Plant and animal studies,0,T10487,
+2006,Urban Green Space and Health,0,T10692,
+2006,Forest Management and Policy,0,T11753,
+2006,Plant Water Relations and Carbon Dynamics,0,T10266,
+2006,Coastal and Marine Management,0,T12414,
+2006,Climate change impacts on agriculture,0,T10439,
+2006,Coral and Marine Ecosystems Studies,0,T10341,
+2007,Land Use and Ecosystem Services,10,T10226,2.1497
+2007,"Conservation, Biodiversity, and Resource Management",10,T10319,2.5077
+2007,Coastal wetland ecosystem dynamics,0,T10779,
+2007,Remote Sensing in Agriculture,0,T10111,
+2007,Hydrology and Watershed Management Studies,1,T10330,0.3995
+2007,Ecology and Vegetation Dynamics Studies,0,T10005,
+2007,Environmental Changes in China,0,T13203,
+2007,Soil erosion and sediment transport,0,T10889,
+2007,Species Distribution and Climate Change,0,T10895,
+2007,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2007,Urban Arborization and Environmental Studies,0,T13801,
+2007,Wetland Management and Conservation,0,T14359,
+2007,Marine and coastal plant biology,0,T10643,
+2007,Urban Heat Island Mitigation,0,T10766,
+2007,Remote-Sensing Image Classification,0,T10689,
+2007,Plant and animal studies,1,T10487,6.7357
+2007,Urban Green Space and Health,0,T10692,
+2007,Forest Management and Policy,0,T11753,
+2007,Plant Water Relations and Carbon Dynamics,0,T10266,
+2007,Coastal and Marine Management,1,T12414,73.9489
+2007,Climate change impacts on agriculture,0,T10439,
+2007,Coral and Marine Ecosystems Studies,0,T10341,
+2008,Land Use and Ecosystem Services,18,T10226,1.3272
+2008,"Conservation, Biodiversity, and Resource Management",15,T10319,7.607
+2008,Coastal wetland ecosystem dynamics,2,T10779,18.6241
+2008,Remote Sensing in Agriculture,1,T10111,1.4146
+2008,Hydrology and Watershed Management Studies,0,T10330,
+2008,Ecology and Vegetation Dynamics Studies,1,T10005,17.1948
+2008,Environmental Changes in China,1,T13203,0
+2008,Soil erosion and sediment transport,0,T10889,
+2008,Species Distribution and Climate Change,0,T10895,
+2008,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2008,Urban Arborization and Environmental Studies,0,T13801,
+2008,Wetland Management and Conservation,2,T14359,6.6264
+2008,Marine and coastal plant biology,0,T10643,
+2008,Urban Heat Island Mitigation,0,T10766,
+2008,Remote-Sensing Image Classification,0,T10689,
+2008,Plant and animal studies,0,T10487,
+2008,Urban Green Space and Health,0,T10692,
+2008,Forest Management and Policy,1,T11753,0.8814
+2008,Plant Water Relations and Carbon Dynamics,1,T10266,4.4052
+2008,Coastal and Marine Management,0,T12414,
+2008,Climate change impacts on agriculture,0,T10439,
+2008,Coral and Marine Ecosystems Studies,1,T10341,19.5724
+2009,Land Use and Ecosystem Services,19,T10226,2.3991
+2009,"Conservation, Biodiversity, and Resource Management",10,T10319,5.7573
+2009,Coastal wetland ecosystem dynamics,0,T10779,
+2009,Remote Sensing in Agriculture,1,T10111,0
+2009,Hydrology and Watershed Management Studies,3,T10330,5.6897
+2009,Ecology and Vegetation Dynamics Studies,0,T10005,
+2009,Environmental Changes in China,3,T13203,1.7092
+2009,Soil erosion and sediment transport,1,T10889,1.1005
+2009,Species Distribution and Climate Change,0,T10895,
+2009,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2009,Urban Arborization and Environmental Studies,0,T13801,
+2009,Wetland Management and Conservation,0,T14359,
+2009,Marine and coastal plant biology,0,T10643,
+2009,Urban Heat Island Mitigation,0,T10766,
+2009,Remote-Sensing Image Classification,0,T10689,
+2009,Plant and animal studies,1,T10487,1.3835
+2009,Urban Green Space and Health,0,T10692,
+2009,Forest Management and Policy,0,T11753,
+2009,Plant Water Relations and Carbon Dynamics,2,T10266,4.145
+2009,Coastal and Marine Management,0,T12414,
+2009,Climate change impacts on agriculture,1,T10439,6.2255
+2009,Coral and Marine Ecosystems Studies,0,T10341,
+2010,Land Use and Ecosystem Services,27,T10226,3.9597
+2010,"Conservation, Biodiversity, and Resource Management",10,T10319,8.2145
+2010,Coastal wetland ecosystem dynamics,1,T10779,1.4012
+2010,Remote Sensing in Agriculture,0,T10111,
+2010,Hydrology and Watershed Management Studies,0,T10330,
+2010,Ecology and Vegetation Dynamics Studies,2,T10005,11.539
+2010,Environmental Changes in China,1,T13203,0
+2010,Soil erosion and sediment transport,1,T10889,15.6615
+2010,Species Distribution and Climate Change,0,T10895,
+2010,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2010,Urban Arborization and Environmental Studies,2,T13801,16.7658
+2010,Wetland Management and Conservation,3,T14359,6.8771
+2010,Marine and coastal plant biology,0,T10643,
+2010,Urban Heat Island Mitigation,0,T10766,
+2010,Remote-Sensing Image Classification,0,T10689,
+2010,Plant and animal studies,0,T10487,
+2010,Urban Green Space and Health,0,T10692,
+2010,Forest Management and Policy,0,T11753,
+2010,Plant Water Relations and Carbon Dynamics,1,T10266,2.285
+2010,Coastal and Marine Management,0,T12414,
+2010,Climate change impacts on agriculture,0,T10439,
+2010,Coral and Marine Ecosystems Studies,2,T10341,3.4513
+2011,Land Use and Ecosystem Services,29,T10226,2.3327
+2011,"Conservation, Biodiversity, and Resource Management",17,T10319,4.7165
+2011,Coastal wetland ecosystem dynamics,2,T10779,11.9425
+2011,Remote Sensing in Agriculture,0,T10111,
+2011,Hydrology and Watershed Management Studies,1,T10330,2.1623
+2011,Ecology and Vegetation Dynamics Studies,2,T10005,13.9938
+2011,Environmental Changes in China,2,T13203,1.4979
+2011,Soil erosion and sediment transport,3,T10889,8.2801
+2011,Species Distribution and Climate Change,1,T10895,2.2903
+2011,Soil Carbon and Nitrogen Dynamics,0,T10004,
+2011,Urban Arborization and Environmental Studies,1,T13801,40.0956
+2011,Wetland Management and Conservation,0,T14359,
+2011,Marine and coastal plant biology,0,T10643,
+2011,Urban Heat Island Mitigation,0,T10766,
+2011,Remote-Sensing Image Classification,0,T10689,
+2011,Plant and animal studies,1,T10487,0
+2011,Urban Green Space and Health,0,T10692,
+2011,Forest Management and Policy,1,T11753,0.2726
+2011,Plant Water Relations and Carbon Dynamics,0,T10266,
+2011,Coastal and Marine Management,0,T12414,
+2011,Climate change impacts on agriculture,1,T10439,15.6672
+2011,Coral and Marine Ecosystems Studies,1,T10341,3.9472
+2012,Land Use and Ecosystem Services,44,T10226,2.8618
+2012,"Conservation, Biodiversity, and Resource Management",21,T10319,4.2186
+2012,Coastal wetland ecosystem dynamics,3,T10779,1.0195
+2012,Remote Sensing in Agriculture,1,T10111,7.7805
+2012,Hydrology and Watershed Management Studies,4,T10330,2.0371
+2012,Ecology and Vegetation Dynamics Studies,4,T10005,2.1674
+2012,Environmental Changes in China,3,T13203,0.2608
+2012,Soil erosion and sediment transport,0,T10889,
+2012,Species Distribution and Climate Change,0,T10895,
+2012,Soil Carbon and Nitrogen Dynamics,2,T10004,6.0102
+2012,Urban Arborization and Environmental Studies,0,T13801,
+2012,Wetland Management and Conservation,1,T14359,1.8538
+2012,Marine and coastal plant biology,0,T10643,
+2012,Urban Heat Island Mitigation,0,T10766,
+2012,Remote-Sensing Image Classification,0,T10689,
+2012,Plant and animal studies,1,T10487,6.5015
+2012,Urban Green Space and Health,1,T10692,0.8805
+2012,Forest Management and Policy,0,T11753,
+2012,Plant Water Relations and Carbon Dynamics,1,T10266,3.3901
+2012,Coastal and Marine Management,0,T12414,
+2012,Climate change impacts on agriculture,2,T10439,4.5471
+2012,Coral and Marine Ecosystems Studies,1,T10341,0
+2013,Land Use and Ecosystem Services,66,T10226,3.4107
+2013,"Conservation, Biodiversity, and Resource Management",17,T10319,24.868
+2013,Coastal wetland ecosystem dynamics,5,T10779,3.8046
+2013,Remote Sensing in Agriculture,1,T10111,55.8145
+2013,Hydrology and Watershed Management Studies,4,T10330,4.272
+2013,Ecology and Vegetation Dynamics Studies,1,T10005,16.6726
+2013,Environmental Changes in China,2,T13203,1.7628
+2013,Soil erosion and sediment transport,0,T10889,
+2013,Species Distribution and Climate Change,3,T10895,8.7206
+2013,Soil Carbon and Nitrogen Dynamics,1,T10004,3.3015
+2013,Urban Arborization and Environmental Studies,1,T13801,6.136
+2013,Wetland Management and Conservation,0,T14359,
+2013,Marine and coastal plant biology,0,T10643,
+2013,Urban Heat Island Mitigation,0,T10766,
+2013,Remote-Sensing Image Classification,0,T10689,
+2013,Plant and animal studies,2,T10487,1.5747
+2013,Urban Green Space and Health,1,T10692,1.1536
+2013,Forest Management and Policy,1,T11753,0.7555
+2013,Plant Water Relations and Carbon Dynamics,1,T10266,3.5256
+2013,Coastal and Marine Management,1,T12414,7.1478
+2013,Climate change impacts on agriculture,3,T10439,7.2863
+2013,Coral and Marine Ecosystems Studies,0,T10341,
+2014,Land Use and Ecosystem Services,61,T10226,5.0052
+2014,"Conservation, Biodiversity, and Resource Management",12,T10319,9.0671
+2014,Coastal wetland ecosystem dynamics,9,T10779,7.3003
+2014,Remote Sensing in Agriculture,3,T10111,14.1567
+2014,Hydrology and Watershed Management Studies,1,T10330,0.2489
+2014,Ecology and Vegetation Dynamics Studies,4,T10005,8.9032
+2014,Environmental Changes in China,5,T13203,0.4366
+2014,Soil erosion and sediment transport,2,T10889,3.4706
+2014,Species Distribution and Climate Change,2,T10895,1.9547
+2014,Soil Carbon and Nitrogen Dynamics,2,T10004,3.2461
+2014,Urban Arborization and Environmental Studies,0,T13801,
+2014,Wetland Management and Conservation,3,T14359,3.0017
+2014,Marine and coastal plant biology,1,T10643,2.8727
+2014,Urban Heat Island Mitigation,2,T10766,3.0361
+2014,Remote-Sensing Image Classification,2,T10689,6.8833
+2014,Plant and animal studies,1,T10487,0
+2014,Urban Green Space and Health,0,T10692,
+2014,Forest Management and Policy,0,T11753,
+2014,Plant Water Relations and Carbon Dynamics,1,T10266,1.9001
+2014,Coastal and Marine Management,2,T12414,1.3987
+2014,Climate change impacts on agriculture,2,T10439,5.8569
+2014,Coral and Marine Ecosystems Studies,4,T10341,1.2757
+2015,Land Use and Ecosystem Services,73,T10226,4.0164
+2015,"Conservation, Biodiversity, and Resource Management",22,T10319,7.2941
+2015,Coastal wetland ecosystem dynamics,14,T10779,11.943
+2015,Remote Sensing in Agriculture,2,T10111,5.5429
+2015,Hydrology and Watershed Management Studies,4,T10330,2.7365
+2015,Ecology and Vegetation Dynamics Studies,2,T10005,3.7129
+2015,Environmental Changes in China,3,T13203,3.3137
+2015,Soil erosion and sediment transport,3,T10889,13.1216
+2015,Species Distribution and Climate Change,2,T10895,1.5432
+2015,Soil Carbon and Nitrogen Dynamics,2,T10004,8.9741
+2015,Urban Arborization and Environmental Studies,0,T13801,
+2015,Wetland Management and Conservation,1,T14359,4.8726
+2015,Marine and coastal plant biology,1,T10643,1.6394
+2015,Urban Heat Island Mitigation,2,T10766,2.4843
+2015,Remote-Sensing Image Classification,1,T10689,11.2371
+2015,Plant and animal studies,4,T10487,14.026
+2015,Urban Green Space and Health,0,T10692,
+2015,Forest Management and Policy,1,T11753,3.8107
+2015,Plant Water Relations and Carbon Dynamics,1,T10266,5.9088
+2015,Coastal and Marine Management,0,T12414,
+2015,Climate change impacts on agriculture,3,T10439,3.4931
+2015,Coral and Marine Ecosystems Studies,1,T10341,4.9594
+2016,Land Use and Ecosystem Services,79,T10226,6.0871
+2016,"Conservation, Biodiversity, and Resource Management",36,T10319,3.5734
+2016,Coastal wetland ecosystem dynamics,10,T10779,8.5427
+2016,Remote Sensing in Agriculture,10,T10111,28.7708
+2016,Hydrology and Watershed Management Studies,4,T10330,2.8471
+2016,Ecology and Vegetation Dynamics Studies,5,T10005,4.6065
+2016,Environmental Changes in China,3,T13203,1.7056
+2016,Soil erosion and sediment transport,4,T10889,5.245
+2016,Species Distribution and Climate Change,2,T10895,1.735
+2016,Soil Carbon and Nitrogen Dynamics,6,T10004,5.5895
+2016,Urban Arborization and Environmental Studies,0,T13801,
+2016,Wetland Management and Conservation,2,T14359,8.68
+2016,Marine and coastal plant biology,1,T10643,38.6149
+2016,Urban Heat Island Mitigation,2,T10766,6.0915
+2016,Remote-Sensing Image Classification,1,T10689,6.1068
+2016,Plant and animal studies,2,T10487,21.8632
+2016,Urban Green Space and Health,1,T10692,5.8706
+2016,Forest Management and Policy,3,T11753,1.7856
+2016,Plant Water Relations and Carbon Dynamics,1,T10266,1.7232
+2016,Coastal and Marine Management,3,T12414,4.9039
+2016,Climate change impacts on agriculture,1,T10439,6.8386
+2016,Coral and Marine Ecosystems Studies,3,T10341,8.6406
+2017,Land Use and Ecosystem Services,111,T10226,3.6034
+2017,"Conservation, Biodiversity, and Resource Management",26,T10319,3.7493
+2017,Coastal wetland ecosystem dynamics,5,T10779,3.3672
+2017,Remote Sensing in Agriculture,6,T10111,4.7343
+2017,Hydrology and Watershed Management Studies,10,T10330,1.7392
+2017,Ecology and Vegetation Dynamics Studies,4,T10005,7.5623
+2017,Environmental Changes in China,4,T13203,5.0493
+2017,Soil erosion and sediment transport,5,T10889,4.0791
+2017,Species Distribution and Climate Change,1,T10895,1.8222
+2017,Soil Carbon and Nitrogen Dynamics,4,T10004,1.6889
+2017,Urban Arborization and Environmental Studies,1,T13801,3.397
+2017,Wetland Management and Conservation,3,T14359,0.6145
+2017,Marine and coastal plant biology,3,T10643,4.4618
+2017,Urban Heat Island Mitigation,2,T10766,6.5602
+2017,Remote-Sensing Image Classification,0,T10689,
+2017,Plant and animal studies,2,T10487,2.4512
+2017,Urban Green Space and Health,2,T10692,2.1199
+2017,Forest Management and Policy,4,T11753,4.3619
+2017,Plant Water Relations and Carbon Dynamics,3,T10266,7.2212
+2017,Coastal and Marine Management,6,T12414,4.5363
+2017,Climate change impacts on agriculture,2,T10439,4.7548
+2017,Coral and Marine Ecosystems Studies,1,T10341,0
+2018,Land Use and Ecosystem Services,165,T10226,4.1294
+2018,"Conservation, Biodiversity, and Resource Management",35,T10319,2.2186
+2018,Coastal wetland ecosystem dynamics,17,T10779,5.9271
+2018,Remote Sensing in Agriculture,11,T10111,4.1884
+2018,Hydrology and Watershed Management Studies,14,T10330,1.6816
+2018,Ecology and Vegetation Dynamics Studies,3,T10005,5.6658
+2018,Environmental Changes in China,8,T13203,4.2018
+2018,Soil erosion and sediment transport,7,T10889,2.9715
+2018,Species Distribution and Climate Change,2,T10895,0.3353
+2018,Soil Carbon and Nitrogen Dynamics,4,T10004,2.4592
+2018,Urban Arborization and Environmental Studies,4,T13801,2.181
+2018,Wetland Management and Conservation,2,T14359,8.5777
+2018,Marine and coastal plant biology,2,T10643,1.8816
+2018,Urban Heat Island Mitigation,0,T10766,
+2018,Remote-Sensing Image Classification,4,T10689,6.4758
+2018,Plant and animal studies,1,T10487,6.1766
+2018,Urban Green Space and Health,1,T10692,0.1136
+2018,Forest Management and Policy,3,T11753,3.9689
+2018,Plant Water Relations and Carbon Dynamics,3,T10266,2.7638
+2018,Coastal and Marine Management,2,T12414,7.7076
+2018,Climate change impacts on agriculture,2,T10439,3.8078
+2018,Coral and Marine Ecosystems Studies,1,T10341,1.5001
+2019,Land Use and Ecosystem Services,190,T10226,3.7574
+2019,"Conservation, Biodiversity, and Resource Management",38,T10319,2.9073
+2019,Coastal wetland ecosystem dynamics,10,T10779,3.5106
+2019,Remote Sensing in Agriculture,7,T10111,6.6398
+2019,Hydrology and Watershed Management Studies,10,T10330,1.6338
+2019,Ecology and Vegetation Dynamics Studies,6,T10005,2.5613
+2019,Environmental Changes in China,5,T13203,3.6889
+2019,Soil erosion and sediment transport,5,T10889,7.2906
+2019,Species Distribution and Climate Change,5,T10895,7.0813
+2019,Soil Carbon and Nitrogen Dynamics,3,T10004,4.5194
+2019,Urban Arborization and Environmental Studies,5,T13801,7.289
+2019,Wetland Management and Conservation,2,T14359,5.0595
+2019,Marine and coastal plant biology,1,T10643,0.8163
+2019,Urban Heat Island Mitigation,2,T10766,2.5853
+2019,Remote-Sensing Image Classification,1,T10689,3.5117
+2019,Plant and animal studies,4,T10487,4.2866
+2019,Urban Green Space and Health,1,T10692,0.6415
+2019,Forest Management and Policy,6,T11753,2.6825
+2019,Plant Water Relations and Carbon Dynamics,3,T10266,3.7833
+2019,Coastal and Marine Management,2,T12414,1.4355
+2019,Climate change impacts on agriculture,1,T10439,6.4429
+2019,Coral and Marine Ecosystems Studies,1,T10341,3.4816
+2020,Land Use and Ecosystem Services,242,T10226,2.8532
+2020,"Conservation, Biodiversity, and Resource Management",41,T10319,1.8117
+2020,Coastal wetland ecosystem dynamics,23,T10779,5.9641
+2020,Remote Sensing in Agriculture,15,T10111,3.0585
+2020,Hydrology and Watershed Management Studies,18,T10330,2.4728
+2020,Ecology and Vegetation Dynamics Studies,6,T10005,2.5199
+2020,Environmental Changes in China,10,T13203,3.7177
+2020,Soil erosion and sediment transport,12,T10889,5.2451
+2020,Species Distribution and Climate Change,11,T10895,7.8771
+2020,Soil Carbon and Nitrogen Dynamics,5,T10004,2.8027
+2020,Urban Arborization and Environmental Studies,4,T13801,3.2033
+2020,Wetland Management and Conservation,7,T14359,4.0424
+2020,Marine and coastal plant biology,4,T10643,4.2298
+2020,Urban Heat Island Mitigation,6,T10766,1.9708
+2020,Remote-Sensing Image Classification,7,T10689,2.5815
+2020,Plant and animal studies,6,T10487,14.4764
+2020,Urban Green Space and Health,1,T10692,0.2659
+2020,Forest Management and Policy,3,T11753,2.154
+2020,Plant Water Relations and Carbon Dynamics,1,T10266,3.3581
+2020,Coastal and Marine Management,1,T12414,3.488
+2020,Climate change impacts on agriculture,5,T10439,3.0028
+2020,Coral and Marine Ecosystems Studies,3,T10341,2.0467
+2021,Land Use and Ecosystem Services,327,T10226,3.3819
+2021,"Conservation, Biodiversity, and Resource Management",44,T10319,2.1282
+2021,Coastal wetland ecosystem dynamics,24,T10779,3.5038
+2021,Remote Sensing in Agriculture,14,T10111,1.725
+2021,Hydrology and Watershed Management Studies,14,T10330,2.2719
+2021,Ecology and Vegetation Dynamics Studies,10,T10005,2.9501
+2021,Environmental Changes in China,10,T13203,5.5304
+2021,Soil erosion and sediment transport,10,T10889,2.1463
+2021,Species Distribution and Climate Change,13,T10895,12.767
+2021,Soil Carbon and Nitrogen Dynamics,11,T10004,3.7853
+2021,Urban Arborization and Environmental Studies,5,T13801,3.7029
+2021,Wetland Management and Conservation,5,T14359,1.7614
+2021,Marine and coastal plant biology,8,T10643,3.903
+2021,Urban Heat Island Mitigation,8,T10766,2.8155
+2021,Remote-Sensing Image Classification,4,T10689,1.0504
+2021,Plant and animal studies,2,T10487,1.1802
+2021,Urban Green Space and Health,5,T10692,1.8209
+2021,Forest Management and Policy,5,T11753,5.569
+2021,Plant Water Relations and Carbon Dynamics,8,T10266,1.6219
+2021,Coastal and Marine Management,5,T12414,10.2535
+2021,Climate change impacts on agriculture,6,T10439,6.5072
+2021,Coral and Marine Ecosystems Studies,3,T10341,1.5579
+2022,Land Use and Ecosystem Services,540,T10226,2.7628
+2022,"Conservation, Biodiversity, and Resource Management",46,T10319,1.3696
+2022,Coastal wetland ecosystem dynamics,34,T10779,2.5717
+2022,Remote Sensing in Agriculture,18,T10111,2.5476
+2022,Hydrology and Watershed Management Studies,9,T10330,0.9784
+2022,Ecology and Vegetation Dynamics Studies,13,T10005,2.7099
+2022,Environmental Changes in China,14,T13203,1.4545
+2022,Soil erosion and sediment transport,7,T10889,2.3748
+2022,Species Distribution and Climate Change,12,T10895,12.5259
+2022,Soil Carbon and Nitrogen Dynamics,15,T10004,5.3577
+2022,Urban Arborization and Environmental Studies,5,T13801,4.1217
+2022,Wetland Management and Conservation,5,T14359,3.2547
+2022,Marine and coastal plant biology,10,T10643,2.5818
+2022,Urban Heat Island Mitigation,3,T10766,1.634
+2022,Remote-Sensing Image Classification,9,T10689,2.5552
+2022,Plant and animal studies,4,T10487,3.7873
+2022,Urban Green Space and Health,5,T10692,1.116
+2022,Forest Management and Policy,3,T11753,1.3074
+2022,Plant Water Relations and Carbon Dynamics,8,T10266,1.7614
+2022,Coastal and Marine Management,6,T12414,2.4349
+2022,Climate change impacts on agriculture,4,T10439,6.8756
+2022,Coral and Marine Ecosystems Studies,4,T10341,2.3362
+2023,Land Use and Ecosystem Services,500,T10226,2.7922
+2023,"Conservation, Biodiversity, and Resource Management",39,T10319,1.6742
+2023,Coastal wetland ecosystem dynamics,22,T10779,3.4892
+2023,Remote Sensing in Agriculture,12,T10111,3.0216
+2023,Hydrology and Watershed Management Studies,12,T10330,1.1667
+2023,Ecology and Vegetation Dynamics Studies,16,T10005,5.1881
+2023,Environmental Changes in China,7,T13203,2.4139
+2023,Soil erosion and sediment transport,16,T10889,7.7967
+2023,Species Distribution and Climate Change,16,T10895,7.158
+2023,Soil Carbon and Nitrogen Dynamics,12,T10004,1.3889
+2023,Urban Arborization and Environmental Studies,10,T13801,3.8359
+2023,Wetland Management and Conservation,2,T14359,0.427
+2023,Marine and coastal plant biology,6,T10643,2.2921
+2023,Urban Heat Island Mitigation,5,T10766,2.2951
+2023,Remote-Sensing Image Classification,13,T10689,1.6748
+2023,Plant and animal studies,4,T10487,2.4962
+2023,Urban Green Space and Health,8,T10692,1.915
+2023,Forest Management and Policy,2,T11753,1.5726
+2023,Plant Water Relations and Carbon Dynamics,5,T10266,4.6169
+2023,Coastal and Marine Management,5,T12414,2.1243
+2023,Climate change impacts on agriculture,1,T10439,1.9533
+2023,Coral and Marine Ecosystems Studies,1,T10341,0.6246
+2024,Land Use and Ecosystem Services,617,T10226,2.8118
+2024,"Conservation, Biodiversity, and Resource Management",42,T10319,1.7656
+2024,Coastal wetland ecosystem dynamics,30,T10779,3.9302
+2024,Remote Sensing in Agriculture,14,T10111,4.6621
+2024,Hydrology and Watershed Management Studies,13,T10330,1.3559
+2024,Ecology and Vegetation Dynamics Studies,16,T10005,1.8208
+2024,Environmental Changes in China,16,T13203,2.4144
+2024,Soil erosion and sediment transport,17,T10889,1.7418
+2024,Species Distribution and Climate Change,19,T10895,6.2505
+2024,Soil Carbon and Nitrogen Dynamics,17,T10004,2.4579
+2024,Urban Arborization and Environmental Studies,9,T13801,4.3059
+2024,Wetland Management and Conservation,11,T14359,4.0188
+2024,Marine and coastal plant biology,10,T10643,2.6436
+2024,Urban Heat Island Mitigation,10,T10766,2.4157
+2024,Remote-Sensing Image Classification,4,T10689,5.044
+2024,Plant and animal studies,6,T10487,3.5606
+2024,Urban Green Space and Health,11,T10692,2.2152
+2024,Forest Management and Policy,7,T11753,1.9459
+2024,Plant Water Relations and Carbon Dynamics,1,T10266,1.0559
+2024,Coastal and Marine Management,4,T12414,1.2414
+2024,Climate change impacts on agriculture,1,T10439,4.5
+2024,Coral and Marine Ecosystems Studies,7,T10341,1.6558
+2025,Land Use and Ecosystem Services,723,T10226,2.6793
+2025,"Conservation, Biodiversity, and Resource Management",51,T10319,2.0743
+2025,Coastal wetland ecosystem dynamics,54,T10779,2.9148
+2025,Remote Sensing in Agriculture,29,T10111,2.1999
+2025,Hydrology and Watershed Management Studies,20,T10330,1.9628
+2025,Ecology and Vegetation Dynamics Studies,23,T10005,2.5222
+2025,Environmental Changes in China,14,T13203,2.4128
+2025,Soil erosion and sediment transport,18,T10889,2.4275
+2025,Species Distribution and Climate Change,20,T10895,9.9028
+2025,Soil Carbon and Nitrogen Dynamics,9,T10004,3.0221
+2025,Urban Arborization and Environmental Studies,15,T13801,3.6398
+2025,Wetland Management and Conservation,13,T14359,2.2025
+2025,Marine and coastal plant biology,11,T10643,2.6441
+2025,Urban Heat Island Mitigation,16,T10766,2.681
+2025,Remote-Sensing Image Classification,9,T10689,3.2523
+2025,Plant and animal studies,9,T10487,2.5842
+2025,Urban Green Space and Health,15,T10692,1.858
+2025,Forest Management and Policy,8,T11753,3.8086
+2025,Plant Water Relations and Carbon Dynamics,6,T10266,2.9402
+2025,Coastal and Marine Management,8,T12414,4.2642
+2025,Climate change impacts on agriculture,9,T10439,3.1366
+2025,Coral and Marine Ecosystems Studies,8,T10341,2.0156

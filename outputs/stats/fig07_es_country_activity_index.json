@@ -1,0 +1,206 @@
+{
+ "activity_index": {
+  "CN": {
+   "Crop/food production": 1.19,
+   "Water yield/provision": 1.52,
+   "Habitat quality/biodiversity": 0.82,
+   "Nutrient cycling/retention": 1.16,
+   "Soil conservation/erosion": 1.51,
+   "Carbon storage/sequestration": 1.22,
+   "Urban heat/cooling": 0.99,
+   "Marine & coastal": 0.63
+  },
+  "BR": {
+   "Crop/food production": 0.7,
+   "Water yield/provision": 0.41,
+   "Habitat quality/biodiversity": 1.42,
+   "Nutrient cycling/retention": 0.69,
+   "Soil conservation/erosion": 0.52,
+   "Carbon storage/sequestration": 0.75,
+   "Urban heat/cooling": 0.25,
+   "Marine & coastal": 1.14
+  },
+  "IN": {
+   "Crop/food production": 0.78,
+   "Water yield/provision": 0.34,
+   "Habitat quality/biodiversity": 1.13,
+   "Nutrient cycling/retention": 1.15,
+   "Soil conservation/erosion": 0.43,
+   "Carbon storage/sequestration": 0.86,
+   "Urban heat/cooling": 2.43,
+   "Marine & coastal": 1.19
+  },
+  "ZA": {
+   "Crop/food production": 0.58,
+   "Water yield/provision": 0.37,
+   "Habitat quality/biodiversity": 1.38,
+   "Nutrient cycling/retention": 0.83,
+   "Soil conservation/erosion": 0.36,
+   "Carbon storage/sequestration": 0.75,
+   "Urban heat/cooling": 0.5,
+   "Marine & coastal": 1.16
+  },
+  "ET": {
+   "Crop/food production": 0.93,
+   "Water yield/provision": 0.94,
+   "Habitat quality/biodiversity": 0.96,
+   "Nutrient cycling/retention": 0.62,
+   "Soil conservation/erosion": 1.18,
+   "Carbon storage/sequestration": 0.46,
+   "Urban heat/cooling": 0.75,
+   "Marine & coastal": 0.11
+  },
+  "KE": {
+   "Crop/food production": 1.62,
+   "Water yield/provision": 0.37,
+   "Habitat quality/biodiversity": 1.31,
+   "Nutrient cycling/retention": 0.66,
+   "Soil conservation/erosion": 0.76,
+   "Carbon storage/sequestration": 0.75,
+   "Urban heat/cooling": 0.0,
+   "Marine & coastal": 0.64
+  },
+  "MX": {
+   "Crop/food production": 0.56,
+   "Water yield/provision": 0.18,
+   "Habitat quality/biodiversity": 1.13,
+   "Nutrient cycling/retention": 0.51,
+   "Soil conservation/erosion": 0.17,
+   "Carbon storage/sequestration": 0.68,
+   "Urban heat/cooling": 0.77,
+   "Marine & coastal": 1.87
+  },
+  "ID": {
+   "Crop/food production": 0.62,
+   "Water yield/provision": 0.57,
+   "Habitat quality/biodiversity": 0.93,
+   "Nutrient cycling/retention": 0.47,
+   "Soil conservation/erosion": 0.48,
+   "Carbon storage/sequestration": 1.34,
+   "Urban heat/cooling": 1.41,
+   "Marine & coastal": 1.38
+  },
+  "US": {
+   "Crop/food production": 0.94,
+   "Water yield/provision": 0.65,
+   "Habitat quality/biodiversity": 1.15,
+   "Nutrient cycling/retention": 1.19,
+   "Soil conservation/erosion": 0.65,
+   "Carbon storage/sequestration": 0.98,
+   "Urban heat/cooling": 0.72,
+   "Marine & coastal": 1.42
+  },
+  "GB": {
+   "Crop/food production": 0.88,
+   "Water yield/provision": 0.34,
+   "Habitat quality/biodiversity": 1.39,
+   "Nutrient cycling/retention": 0.76,
+   "Soil conservation/erosion": 0.3,
+   "Carbon storage/sequestration": 0.98,
+   "Urban heat/cooling": 0.55,
+   "Marine & coastal": 1.57
+  }
+ },
+ "service_share_country": {
+  "CN": {
+   "Crop/food production": 11.4,
+   "Water yield/provision": 23.1,
+   "Habitat quality/biodiversity": 25.2,
+   "Nutrient cycling/retention": 4.9,
+   "Soil conservation/erosion": 18.9,
+   "Carbon storage/sequestration": 23.5,
+   "Urban heat/cooling": 1.4,
+   "Marine & coastal": 8.7
+  },
+  "BR": {
+   "Crop/food production": 6.7,
+   "Water yield/provision": 6.2,
+   "Habitat quality/biodiversity": 43.7,
+   "Nutrient cycling/retention": 2.9,
+   "Soil conservation/erosion": 6.6,
+   "Carbon storage/sequestration": 14.5,
+   "Urban heat/cooling": 0.3,
+   "Marine & coastal": 15.9
+  },
+  "IN": {
+   "Crop/food production": 7.6,
+   "Water yield/provision": 5.1,
+   "Habitat quality/biodiversity": 34.9,
+   "Nutrient cycling/retention": 4.9,
+   "Soil conservation/erosion": 5.4,
+   "Carbon storage/sequestration": 16.6,
+   "Urban heat/cooling": 3.4,
+   "Marine & coastal": 16.6
+  },
+  "ZA": {
+   "Crop/food production": 5.6,
+   "Water yield/provision": 5.6,
+   "Habitat quality/biodiversity": 42.5,
+   "Nutrient cycling/retention": 3.5,
+   "Soil conservation/erosion": 4.6,
+   "Carbon storage/sequestration": 14.4,
+   "Urban heat/cooling": 0.7,
+   "Marine & coastal": 16.1
+  },
+  "ET": {
+   "Crop/food production": 8.9,
+   "Water yield/provision": 14.2,
+   "Habitat quality/biodiversity": 29.5,
+   "Nutrient cycling/retention": 2.6,
+   "Soil conservation/erosion": 14.7,
+   "Carbon storage/sequestration": 8.9,
+   "Urban heat/cooling": 1.1,
+   "Marine & coastal": 1.6
+  },
+  "KE": {
+   "Crop/food production": 15.6,
+   "Water yield/provision": 5.6,
+   "Habitat quality/biodiversity": 40.2,
+   "Nutrient cycling/retention": 2.8,
+   "Soil conservation/erosion": 9.5,
+   "Carbon storage/sequestration": 14.5,
+   "Urban heat/cooling": 0.0,
+   "Marine & coastal": 8.9
+  },
+  "MX": {
+   "Crop/food production": 5.4,
+   "Water yield/provision": 2.7,
+   "Habitat quality/biodiversity": 34.8,
+   "Nutrient cycling/retention": 2.2,
+   "Soil conservation/erosion": 2.2,
+   "Carbon storage/sequestration": 13.0,
+   "Urban heat/cooling": 1.1,
+   "Marine & coastal": 26.1
+  },
+  "ID": {
+   "Crop/food production": 6.0,
+   "Water yield/provision": 8.6,
+   "Habitat quality/biodiversity": 28.5,
+   "Nutrient cycling/retention": 2.0,
+   "Soil conservation/erosion": 6.0,
+   "Carbon storage/sequestration": 25.8,
+   "Urban heat/cooling": 2.0,
+   "Marine & coastal": 19.2
+  },
+  "US": {
+   "Crop/food production": 9.0,
+   "Water yield/provision": 9.9,
+   "Habitat quality/biodiversity": 35.3,
+   "Nutrient cycling/retention": 5.1,
+   "Soil conservation/erosion": 8.2,
+   "Carbon storage/sequestration": 19.0,
+   "Urban heat/cooling": 1.0,
+   "Marine & coastal": 19.7
+  },
+  "GB": {
+   "Crop/food production": 8.5,
+   "Water yield/provision": 5.1,
+   "Habitat quality/biodiversity": 42.8,
+   "Nutrient cycling/retention": 3.2,
+   "Soil conservation/erosion": 3.7,
+   "Carbon storage/sequestration": 18.9,
+   "Urban heat/cooling": 0.8,
+   "Marine & coastal": 21.9
+  }
+ }
+}
