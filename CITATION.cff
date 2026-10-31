@@ -17,7 +17,7 @@ authors:
     affiliation: "Department of Geography, University of Lagos, Akoka-Yaba, Lagos, Nigeria"
 
 license: "[licence, e.g. MIT for code / CC-BY-4.0 for derived data]"
-repository-code: "[GitHub repository URL]"
+repository-code: "https://github.com/rsaseun/es-modelling-global-south-audit"
 preferred-citation:
   type: article
   title: "More models, little validation: A quality-screened, decade-resolved audit of spatially explicit ecosystem-service modelling in the Global South (1990–2025)"
