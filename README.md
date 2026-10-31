@@ -91,12 +91,6 @@ outputs/                regenerated results (committed for browsing)
 | 8 Challenges | `table08_challenges.py` | qualitative synthesis |
 | 9 TRACE-ES framework | `table09_trace_es_framework.py` | qualitative framework |
 
-## Adding this folder to an existing repository
-
-Copy the whole folder into the repository (for example as `es-modelling-global-south-audit/`) and commit it.
-All paths are resolved relative to the scripts, so it runs from any location. If the repository already has
-a top-level `requirements.txt` or `.gitignore`, merge the entries from this folder into them.
-
 ## Data source and licence
 
 Bibliographic aggregates come from [OpenAlex](https://openalex.org) (CC0). Country boundaries come from
