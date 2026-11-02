@@ -93,9 +93,10 @@ outputs/                regenerated results (committed for browsing)
 
 ## Data source and licence
 
-Bibliographic aggregates come from [OpenAlex](https://openalex.org) (CC0). Country boundaries come from
+Bibliographic aggregates come from [OpenAlex](https://openalex.org) (CC0). 
+Country boundaries come from
 Natural Earth via world-atlas (ISC); icons in Fig. 14 from Lucide (ISC). 
 
 Copyright (c) 2026 Saheed A. Raji, Shakirudeen Odunuga & Mayowa Fasona
 
-"This dataset used for the study More models, little validation by Saheed A. Raji, Shakirudeen Odunuga & Mayowa Fasona is licensed under the Creative Commons Attribution 4.0 International License.
+This dataset used for the study More models, little validation--- by Saheed A. Raji, Shakirudeen Odunuga & Mayowa Fasona is licensed under the Creative Commons Attribution 4.0 International License.
