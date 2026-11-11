@@ -3,7 +3,7 @@
 Reproducible code and data for the review article
 
 > **More models, little validation: A quality-screened, decade-resolved audit of spatially explicit
-> ecosystem-service modelling in the Global South (1990–2025).** *Ecosystem Services* (under review).
+> ecosystem-service modelling in the Global South (1990–2025).** *Human Environment Interaction* (under review).
 
 One Python script regenerates each figure (Figs. 1–14) and each table (Tables 1–9) of the article
 from OpenAlex aggregates. The tests check that every regenerated figure is **pixel-identical** to the
